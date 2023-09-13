@@ -46,6 +46,5 @@ if ($err) {
 } else {
     $jsonFilePath = "response.json";
     file_put_contents($jsonFilePath, $response);
-
     echo "Os dados foram salvos em $jsonFilePath.";
 }

@@ -1,0 +1,86 @@
+.box-filme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img {
+    width: 200px;
+    height: 300px;
+}
+
+@media screen and (max-width: 768px) {
+
+    .cabecalho {
+        height: 55px;
+        background-color: aquamarine;
+        display: flex;
+        justify-content: center;
+        padding: 1rem 1rem 0 1rem;
+    }
+
+    .cabecalho-titulo {
+        font-size: 1.5rem;
+    }
+
+    #slideMenu {
+        width: 0;
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        background-color: #333;
+        overflow-x: hidden;
+        transition: 0.5s;
+    }
+    
+    #slideMenu ul {
+        padding: 0;
+        list-style: none;
+    }
+    
+    #slideMenu li {
+        padding: 20px;
+    }
+    
+    #slideMenu li a {
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    /* Estilos para o botão de abrir o menu */
+    #openMenuButton {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 1;
+    }
+
+    .botao-slidemenu {
+        background-color: transparent;
+        border-color: transparent;
+        transition: 0.5s;
+    }
+
+    .slide-menu-input {
+        width: 95%;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        font-size: 14px;
+        background-color: white;
+        padding: 12px 20px 12px 12px;
+    }
+
+    .chamada {
+        display: flex;
+        justify-content: center;
+        background-color: aqua;
+        padding: 1.5rem 1rem;
+        margin-bottom: 2rem;
+    }
+}
+
+
