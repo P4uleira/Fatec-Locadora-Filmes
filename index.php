@@ -1,3 +1,11 @@
+<?php 
+    include 'request-api.php';
+    teste();
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
