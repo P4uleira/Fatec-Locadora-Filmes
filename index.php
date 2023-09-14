@@ -1,10 +1,6 @@
-<?php 
-    include 'request-api.php';
-    teste();
-
-
-
-
+<?php
+include 'request-api.php';
+requestApi();
 ?>
 
 
@@ -47,22 +43,22 @@
             <ul class="sidebarMenuInner">
                 <li>
                     <div class="input-group mb-3">
-                        <input type="text" class="form-control" placeholder="Buscar Filme" aria-label="Buscar"
-                            aria-describedby="basic-addon2">
+                        <input id="titulo" type="text" class="form-control" placeholder="Buscar Filme"
+                            aria-label="Buscar" aria-describedby="basic-addon2">
                         <div class="input-group-append">
-                            <a class="btn btn-outline-secondary" type="button">a</a>
+                            <a onclick="informaNome()" class="btn btn-outline-secondary" type="button">a</a>
                         </div>
                     </div>
                 </li>
                 <li><a style="color: #F0F0F0;" href="#">Meus Filmes ALugados</a></li>
                 <br>
                 <li><a style="color: #F0F0F0;" href="index.php?cat=action">Ação</a></li>
-                <li><a style="color: #F0F0F0;" href="#">Ficção</a></li>
-                <li><a style="color: #F0F0F0;" href="#">Animação</a></li>
-                <li><a style="color: #F0F0F0;" href="#">Comedia</a></li>
-                <li><a style="color: #F0F0F0;" href="#">Drama</a></li>
-                <li><a style="color: #F0F0F0;" href="#">Romance</a></li>
-                <li><a style="color: #F0F0F0;" href="#">Terror</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=fiction">Ficção</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=animation">Animação</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=comedy">Comedia</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=drama">Drama</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=family">Familia</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=horror">Terror</a></li>
             </ul>
         </div>
     </header>
@@ -77,17 +73,20 @@
         if (isset($_GET['cat'])) {
             $cat = $_GET['cat'];
             listaFilmes($cat);
-        }else {
+        } else {
             $cat = 'tendency';
             listaFilmes($cat);
         }
-        
+
+        if (isset($_GET['name'])) {
+            $name = $_GET['name'];
+            buscaPorNome($name);
+        }
         ?>
 
     </main>
-
-    <section class="container">
-    </section>
+    
+    <script src="Js/main.js"></script>
 </body>
 
 </html>

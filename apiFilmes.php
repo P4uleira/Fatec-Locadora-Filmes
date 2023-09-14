@@ -1,7 +1,8 @@
 <?php
+
 function listaFilmes($cat)
-{    
-    $path = 'Json/'.$cat.'.json';
+{
+    $path = 'Json/' . $cat . '.json';
     $response = file_get_contents($path);
     $filmes = json_decode($response);
     echo "<div class=\"box-filme\">";
@@ -16,4 +17,5 @@ function listaFilmes($cat)
     echo "</div>";
 }
 echo "</div>";
+
 ?>

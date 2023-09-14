@@ -1,6 +1,6 @@
 <?php
 
-function teste() {
+function requestApi() {
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
 
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
@@ -256,5 +256,45 @@ function teste() {
       $horrorJson = $caminho . "horror.json";
       file_put_contents($horrorJson, $respostaApi);
   }
+}
+
+function buscaPorNome($name)
+{
+
+    $alterada = strtolower(str_replace(" ", "-", $name));
+    $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
+    $curl = curl_init();
+
+
+    curl_setopt_array($curl, [
+        CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?query=" . $alterada . "&language=pt-BR",
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_ENCODING => "",
+        CURLOPT_MAXREDIRS => 10,
+        CURLOPT_TIMEOUT => 30,
+        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+        CURLOPT_CUSTOMREQUEST => "GET",
+        CURLOPT_HTTPHEADER => [
+            "Authorization: Bearer " . $apiKey,
+            "accept: application/json"
+        ],
+    ]);
+
+    $respostaApi = curl_exec($curl);
+    curl_close($curl);
+
+    $filmes = json_decode($respostaApi);
+
+    foreach ($filmes->results as $filme) {
+        $releaseYear = new DateTimeImmutable($filme->release_date);
+        echo "<div class=\"box-poster\">";
+        echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
+        echo "<h6 class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
+        echo "</div>";
+        echo "</br>";
+    }
+    echo "</div>";
+
+
 }
 ?>
