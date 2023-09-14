@@ -73,15 +73,16 @@ requestApi();
         if (isset($_GET['cat'])) {
             $cat = $_GET['cat'];
             listaFilmes($cat);
-        } else {
+        } else if (isset($_GET['name'])) {
+            $name = $_GET['name'];
+            buscaPorNome($name);
+        }    
+        else {
             $cat = 'tendency';
             listaFilmes($cat);
         }
 
-        if (isset($_GET['name'])) {
-            $name = $_GET['name'];
-            buscaPorNome($name);
-        }
+        
         ?>
 
     </main>

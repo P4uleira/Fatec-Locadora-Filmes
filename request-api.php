@@ -261,13 +261,12 @@ function requestApi() {
 function buscaPorNome($name)
 {
 
-    $alterada = strtolower(str_replace(" ", "-", $name));
+    echo $name;
     $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
     $curl = curl_init();
 
-
     curl_setopt_array($curl, [
-        CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?query=" . $alterada . "&language=pt-BR",
+        CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?query=" . $name . "&language=pt-BR",
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => "",
         CURLOPT_MAXREDIRS => 10,
