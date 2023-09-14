@@ -1,0 +1,395 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 615656,
+            "original_language": "en",
+            "original_title": "Meg 2: The Trench",
+            "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+            "popularity": 2543.98,
+            "poster_path": "/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg",
+            "release_date": "2023-08-02",
+            "title": "Megatubarão 2",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1686
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/53z2fXEKfnNg2uSOPss2unPBGX1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 968051,
+            "original_language": "en",
+            "original_title": "The Nun II",
+            "overview": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).",
+            "popularity": 1782.231,
+            "poster_path": "/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
+            "release_date": "2023-09-06",
+            "title": "A Freira 2",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/55Rb9qt3yzyF4KQpC1c3T3Fbcao.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1008042,
+            "original_language": "en",
+            "original_title": "Talk to Me",
+            "overview": "Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.",
+            "popularity": 1370.306,
+            "poster_path": "/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg",
+            "release_date": "2023-07-26",
+            "title": "Fale Comigo",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 386
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fgsHxz21B27hOOqQBiw9L6yWcM7.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 439079,
+            "original_language": "en",
+            "original_title": "The Nun",
+            "overview": "Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre assombrado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento em um campo de batalha.",
+            "popularity": 615.75,
+            "poster_path": "/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg",
+            "release_date": "2018-09-05",
+            "title": "A Freira",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 5967
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qEm4FrkGh7kGoEiBOyGYNielYVc.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 635910,
+            "original_language": "en",
+            "original_title": "The Last Voyage of the Demeter",
+            "overview": "A tripulação do navio mercante Demeter tenta sobreviver à viagem oceânica de Carpathia a Londres enquanto são perseguidos todas as noites por uma presença impiedosa a bordo do navio.",
+            "popularity": 558.974,
+            "poster_path": "/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg",
+            "release_date": "2023-08-09",
+            "title": "Drácula: A Última Viagem do Deméter",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 562
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jn7U0C8ZKjL1M8skZ5lBdSLYcST.jpg",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "id": 1135229,
+            "original_language": "en",
+            "original_title": "I Am Rage",
+            "overview": "",
+            "popularity": 777.178,
+            "poster_path": "/iclmQs4O5dy7EAkbykI1qkowfK2.jpg",
+            "release_date": "2023-09-14",
+            "title": "I Am Rage",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzNlMlhKOcgqMibBvM7sm8Wn6l3.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1158385,
+            "original_language": "en",
+            "original_title": "Spirit of Fear",
+            "overview": "",
+            "popularity": 341.383,
+            "poster_path": "/v7htXVrfq9CXhlRXIVofuLUkc7M.jpg",
+            "release_date": "2023-07-31",
+            "title": "Spirit of Fear",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hPcP1kv6vrkRmQO3YgV1H97FE5Q.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 614479,
+            "original_language": "en",
+            "original_title": "Insidious: The Red Door",
+            "overview": "Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
+            "popularity": 364.38,
+            "poster_path": "/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
+            "release_date": "2023-07-05",
+            "title": "Sobrenatural: A Porta Vermelha",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1084
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/65rFnxzirxQDM0rYWmtAUYnjc.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1094713,
+            "original_language": "en",
+            "original_title": "The Mistress",
+            "overview": "",
+            "popularity": 283.772,
+            "poster_path": "/1kdmre0wlUAUk9BvySv4Xoveieg.jpg",
+            "release_date": "2023-07-28",
+            "title": "The Mistress",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sFpMBQtB4rXYeP2zm4KmyrMjw8u.jpg",
+            "genre_ids": [
+                28,
+                9648,
+                53,
+                27
+            ],
+            "id": 1006462,
+            "original_language": "en",
+            "original_title": "The Flood",
+            "overview": "Os jacarés famintos impedem uma fuga valente de uma prisão durante uma tempestade ameaçadora.",
+            "popularity": 318.604,
+            "poster_path": "/tbyhg1DxQkkKUmQ60x7dqGxPvt1.jpg",
+            "release_date": "2023-07-14",
+            "title": "The Flood",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
+            "genre_ids": [
+                16,
+                28,
+                27
+            ],
+            "id": 1083862,
+            "original_language": "ja",
+            "original_title": "バイオハザード：デスアイランド",
+            "overview": "Em San Francisco, Jill Valentine está lidando com um surto de zumbis e um novo T-Virus, Leon Kennedy está no encalço de um cientista DARPA sequestrado e Claire Redfield está investigando um peixe monstruoso que está matando baleias na baía. Acompanhados por Chris Redfield e Rebecca Chambers, eles descobrem que as pistas de seus casos separados convergem para o mesmo local, a Ilha de Alcatraz, onde um novo mal se estabeleceu e aguarda sua chegada.",
+            "popularity": 290.338,
+            "poster_path": "/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+            "release_date": "2023-06-22",
+            "title": "Resident Evil: Ilha da Morte",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 653
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nYDPmxvl0if5vHBBp7pDYGkTFc7.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 709631,
+            "original_language": "en",
+            "original_title": "Cobweb",
+            "overview": "Um menino que ouve vozes em sua cabeça decide soltá-las em seus pais abusivos.",
+            "popularity": 268.402,
+            "poster_path": "/vgi2RPVkOXddyUvAb7lavvfIufl.jpg",
+            "release_date": "2023-07-19",
+            "title": "TOC TOC TOC: Ecos do Além",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AvSeU3ji59QLN2tfWXzVqI6hg8x.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 532408,
+            "original_language": "en",
+            "original_title": "The Boogeyman",
+            "overview": "Uma jovem de 16 anos e sua irmã mais nova ainda em luto pela morte da mãe, são alvo de uma criatura sobrenatural depois que o pai de ambas atende um paciente desesperado em casa.",
+            "popularity": 237.626,
+            "poster_path": "/uFXGofUsMFEoNiBvzuyX9KbHMLA.jpg",
+            "release_date": "2023-05-31",
+            "title": "Boogeyman: Seu Medo é Real",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 423108,
+            "original_language": "en",
+            "original_title": "The Conjuring: The Devil Made Me Do It",
+            "overview": "Um dos casos mais sensacionais de seus arquivos começa com a luta pela alma de um garoto e depois os leva para além de qualquer coisa que já tenham visto. Esse caso marcou a primeira vez na história dos Estados Unidos em que um suspeito de assassinato alegou possessão demoníaca como defesa.",
+            "popularity": 220.292,
+            "poster_path": "/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg",
+            "release_date": "2021-05-25",
+            "title": "Invocação do Mal 3: A Ordem do Demônio",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 5371
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eudhlR36iw5IhxEgeZtj1Eg2ZmF.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 999278,
+            "original_language": "it",
+            "original_title": "L’orafo",
+            "overview": "",
+            "popularity": 238.428,
+            "poster_path": "/3rzz3HryMj8yf6vBNLKnlCCJBPL.jpg",
+            "release_date": "2022-10-08",
+            "title": "L’orafo",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 934433,
+            "original_language": "en",
+            "original_title": "Scream VI",
+            "overview": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+            "popularity": 231.296,
+            "poster_path": "/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg",
+            "release_date": "2023-03-08",
+            "title": "Pânico VI",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1748
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 758323,
+            "original_language": "en",
+            "original_title": "The Pope's Exorcist",
+            "overview": "O padre Gabriele Amorth, exorcista do Vaticano, luta contra Satanás e demônios possuidores de inocentes. Um retrato detalhado de um padre que realizou mais de 100 mil exorcismos em sua vida.",
+            "popularity": 228.288,
+            "poster_path": "/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg",
+            "release_date": "2023-04-05",
+            "title": "O Exorcista do Papa",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1902
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ouN6tUnlwhN0IgtnEI4ADIE6V3g.jpg",
+            "genre_ids": [
+                27,
+                36
+            ],
+            "id": 854881,
+            "original_language": "en",
+            "original_title": "The Haunting of the Tower of London",
+            "overview": "Quando os restos mortais de dois príncipes assassinados são descobertos na Torre de Londres, um padre perturbado deve deixar suas crenças de lado para fazer amizade com um prisioneiro misterioso, que tem poderes sobrenaturais para se comunicar com os mortos. Juntos, eles devem resolver o mistério de quem assassinou os príncipes, enquanto os prisioneiros na masmorra do castelo encontram seus destinos sangrentos nas mãos dos fantasmas dos príncipes, que continuam a assombrar o castelo em busca de vingança.",
+            "popularity": 191.261,
+            "poster_path": "/rwGZIv9cQSQx46K9kpDK3RXgC6a.jpg",
+            "release_date": "2022-06-27",
+            "title": "The Haunting of the Tower of London",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGFHBDwsCJheP5F3Bj389ohI7.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1104670,
+            "original_language": "en",
+            "original_title": "Pillow Party Massacre",
+            "overview": "",
+            "popularity": 161.844,
+            "poster_path": "/i0IGE0CCfHxsbCNJEPkYgLKdaSA.jpg",
+            "release_date": "2023-02-03",
+            "title": "Pillow Party Massacre",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xh1Xjiu7Q0ORz3DbJjlwfC2KwVM.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 42968,
+            "original_language": "es",
+            "original_title": "La monja",
+            "overview": "Um grupo de seis garotas, de aproximadamente 15 anos, moram em um colégio interno, onde são aterrorizadas por uma freira. Um dia a freira descobre que uma das meninas está grávida. Chocada, a religiosa tenta “purificar” a jovem torturando-a., fato que é presenciado por suas amigas que, consumidas pelo medo, resolvem partir para cima da freira para livrar a amiga da dor. Dezessete anos depois, cada uma das jovens segue seu próprio caminho longe do colégio e distanciadas umas das outras por conta desse terrível desfecho no passado, que parece voltar depois de tanto tempo.",
+            "popularity": 222.192,
+            "poster_path": "/2yFe4wR6gHgUbYbz5bnPwuYECaN.jpg",
+            "release_date": "2005-11-03",
+            "title": "Maldição: Reze Para Não Vê-la",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 210
+        }
+    ],
+    "total_pages": 2104,
+    "total_results": 42070
+}
