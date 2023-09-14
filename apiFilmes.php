@@ -42,17 +42,16 @@
         curl_close($curl);    
 
         $filmes = json_decode($response);
-        echo "<pre>";
+        echo "<div class=\"box-filme\">";
         foreach ($filmes->results as $filme) {
             $releaseYear = new DateTimeImmutable($filme->release_date);
-            echo "<div class=\"box-filme\"><div class=\"box-poster\">";
+            echo "<div class=\"box-poster\">";
             echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500". $filme->poster_path . "'alt='Poster do Filme'>";
-            echo "<h6 class=\"box-informacoes\"><em>". $filme->title . "</em> <strong>" . $releaseYear->format('Y') . "</strong></h6>";
-            echo "</div></div>";
-            
+            echo "<h6 class=\"box-informacoes\"><em>". $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
+            echo "</div>";            
             echo "</br>";
         }
-        echo "</pre>";
+        echo "</div>";
     }
 
 ?>
