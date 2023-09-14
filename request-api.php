@@ -267,7 +267,7 @@ function buscaPorNome($name)
 
 
     curl_setopt_array($curl, [
-        CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?query=" . $alterada . "&language=pt-BR",
+        CURLOPT_URL => "https://api.themoviedb.org/3/search/movie?".$apiKey."&query=".$name."&language=pt-BR",
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => "",
         CURLOPT_MAXREDIRS => 10,
