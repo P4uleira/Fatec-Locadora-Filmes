@@ -1,0 +1,425 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "popularity": 1153.497,
+            "poster_path": "/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elementos",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1921
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AeR5k8Sp3zc2Ql4tT6CmgqspsEq.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10749
+            ],
+            "id": 447277,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.",
+            "popularity": 519.981,
+            "poster_path": "/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg",
+            "release_date": "2023-05-18",
+            "title": "A Pequena Sereia",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1958
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                35
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+            "popularity": 427.862,
+            "poster_path": "/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
+            "release_date": "2023-04-05",
+            "title": "Super Mario Bros.: O Filme",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 6582
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35
+            ],
+            "id": 1040148,
+            "original_language": "en",
+            "original_title": "Ruby Gillman, Teenage Kraken",
+            "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+            "popularity": 256.744,
+            "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+            "release_date": "2023-06-28",
+            "title": "Ruby Marinho - Monstro Adolescente",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12,
+                35,
+                28
+            ],
+            "id": 315162,
+            "original_language": "en",
+            "original_title": "Puss in Boots: The Last Wish",
+            "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+            "popularity": 244.435,
+            "poster_path": "/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
+            "release_date": "2022-12-07",
+            "title": "Gato de Botas 2: O Último Pedido",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 6324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                28,
+                14,
+                10749
+            ],
+            "id": 496450,
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "Marinette Dupain-Cheng, de dezesseis anos, está temendo o primeiro dia de aula, onde ela sofre bullying, não tem amigos e não se encaixa, mas seu mundo vira de cabeça para baixo quando ela é escolhida para se tornar a super-heroína Ladybug e ela conhece seu parceiro Cat Noir.",
+            "popularity": 251.343,
+            "poster_path": "/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
+            "release_date": "2023-07-05",
+            "title": "Miraculous: As Aventuras de Ladybug - O Filme",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vT17lPUglrAzjEqMwjPpIDe49ty.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "id": 459003,
+            "original_language": "uk",
+            "original_title": "Мавка: Лісова пісня",
+            "overview": "Mavka — uma Alma da Floresta e seu Guardião — enfrenta uma escolha impossível entre o amor e seu dever como guardiã do Coração da Floresta, quando se apaixona por um humano — o talentoso jovem músico Lukas.",
+            "popularity": 230.948,
+            "poster_path": "/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
+            "release_date": "2023-03-02",
+            "title": "Mavka: Aventura na Floresta",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 372
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+            "genre_ids": [
+                16,
+                14,
+                12,
+                10751,
+                35
+            ],
+            "id": 832502,
+            "original_language": "en",
+            "original_title": "The Monkey King",
+            "overview": "O Rei Macaco é uma comédia de ação para toda a família sobre um Macaco cheio de carisma e seu Bastão mágico que embarcam em uma aventura épica contra cem demônios, um excêntrico Rei Dragão e o maior inimigo do Macaco: seu próprio ego! No caminho, uma jovem desafia o egocentrismo dele e mostra que até a menor pedrinha de todas pode ter um grande efeito no mundo.",
+            "popularity": 198.876,
+            "poster_path": "/bmwK5QCznqUT8bcDR7qROrxqgov.jpg",
+            "release_date": "2023-08-11",
+            "title": "O Rei Macaco",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aY5cMtwZqt6yXZwrLLEa6czvRMY.jpg",
+            "genre_ids": [
+                10751,
+                16
+            ],
+            "id": 1165223,
+            "original_language": "en",
+            "original_title": "My First Barbie: Happy DreamDay",
+            "overview": "Cante junto com Barbie, Barbie, Teresa e Renee nesta aventura musical enquanto elas planejam a maior festa surpresa de aniversário da irmã da Barbie, Chelsea. \"Maior do que apenas um aniversário, temos que planejar um Dia dos Sonhos!\"",
+            "popularity": 175.72,
+            "poster_path": "/zUGDo9luTIyiVfPVEmKGa55pIJa.jpg",
+            "release_date": "2023-02-13",
+            "title": "Minha Primeira Barbie",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "Uma garota chamada Mirabel Madrigal cresce como o único membro não mágico de sua família, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.",
+            "popularity": 167.854,
+            "poster_path": "/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
+            "release_date": "2021-10-13",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 8562
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+            "genre_ids": [
+                12,
+                14,
+                10751
+            ],
+            "id": 674,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Goblet of Fire",
+            "overview": "Quando o nome de Harry Potter emerge do Cálice de Fogo, ele se transforma em um competidor em uma extenuante batalha de magia entre três escolas de feiticeiros – o Torneio Tribruxo. Mas se Harry não se inscreveu para o tal torneio, quem o fez? Agora, Harry precisa confrontar um mortal dragão, ferozes demônios da água e um labirinto encantado aonde se deparará com Aquele-Que-Não-Deve-Ser-Nomeado. Nesta quarta adaptação da série Harry Potter, criada por J.K. Rowling, tudo está modificado, a começar pelo próprio Harry e seus inseparáveis amigos, Ron e Hermione, que deixam a infância para sempre e partem para desafios maiores do que tudo aquilo que um dia eles já imaginaram.",
+            "popularity": 141.338,
+            "poster_path": "/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+            "release_date": "2005-11-16",
+            "title": "Harry Potter e o Cálice de Fogo",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 19228
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                14,
+                10402,
+                35,
+                12
+            ],
+            "id": 354912,
+            "original_language": "en",
+            "original_title": "Coco",
+            "overview": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.",
+            "popularity": 143.152,
+            "poster_path": "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+            "release_date": "2017-10-27",
+            "title": "Viva: A Vida é uma Festa",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 17638
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g5YC4ek1ZSKogiR5UwiSuTRx4iO.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                27
+            ],
+            "id": 1150394,
+            "original_language": "es",
+            "original_title": "La Leyenda de los Chaneques",
+            "overview": "",
+            "popularity": 119.766,
+            "poster_path": "/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",
+            "release_date": "2023-07-14",
+            "title": "La Leyenda de los Chaneques",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Tw3Z9vcu1Hwo1CijEPineKPkFO.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 499338,
+            "original_language": "en",
+            "original_title": "I Believe",
+            "overview": "Brian Webber, de 9 anos de idade, tem um encontro sobrenatural com Deus, uma experiência que o leva à aventura das aventuras. Seus pais não estão muito felizes com isso, especialmente seu pai, Simon Webber, um apresentador de TV ateu. Felizmente, Brian encontra aliados no pastor de uma igreja local , e em um fuzileiro naval ferido dos EUA. A fé pura e inocente de Brian produz milagres extraordinários que rapidamente se tornam notícia na cidade.",
+            "popularity": 193.052,
+            "poster_path": "/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg",
+            "release_date": "2019-06-06",
+            "title": "Eu Acredito",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uytxil0xW5wj1mOa9Abw4TlxOsM.jpg",
+            "genre_ids": [
+                14,
+                10751,
+                27
+            ],
+            "id": 1155458,
+            "original_language": "es",
+            "original_title": "El extraño caso del fantasma claustrofóbico",
+            "overview": "Os irmãos Nikolaj (12) e Emil (8) descobrem o fantasma de um menino que habita o quarto de sua nova casa. Com a ajuda da amiga Ximena (12), eles vão tentar ajudar o fantasma a resolver sua pendência: entregar uma carta de amor a uma garota que ele deixou de ver há mais de 30 anos.",
+            "popularity": 118.651,
+            "poster_path": "/mxl2XF0Qnmig21w4btbQjxxcIq.jpg",
+            "release_date": "2023-07-21",
+            "title": "O Estranho Caso do Fantasma Claustrofóbico",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e24V3tFfvpuXXBidSLRdZRnwmfV.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                10751
+            ],
+            "id": 15590,
+            "original_language": "en",
+            "original_title": "The Prince & Me 2: The Royal Wedding",
+            "overview": "Planejar um casamento nunca é tarefa fácil: organizar os convidados, pensar em todos os detalhes da festa, o vestido, as famílias, o que servir… e é ainda muito mais difícil quando se vai casar com o Rei da Dinamarca, disputadíssimo por todas as coroas da Europa… e objeto de um plano para fazê-lo casar com a sua filha para ficar rico, como é o caso do príncipe herdeiro da Noruega. Esse plano parece mais fácil de alcançar quando a tal filha é amiga de infância do Rei, cheia de historinhas para contar de quando ele era criança e estava descobrindo o mundo e as garotas nele. E também o fato de que a tal princesa é bem rodada pela Europa, vai a todas as festas bacanas, conhece milhões de pessoas famosas e pior, tenta se passar por amiga…para ajudar… Esta hilariante comédia romântica nos mostra que as disputas pelas coroas não acabaram, mas se modernizaram, fazendo deste conto de fadas do século 21 uma batalha real.",
+            "popularity": 124.664,
+            "poster_path": "/bRsKGFKxoocZVSM461R3Whoxlvd.jpg",
+            "release_date": "2006-02-21",
+            "title": "Um Príncipe em Minha Vida 2 - O Casamento Real",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "id": 675445,
+            "original_language": "en",
+            "original_title": "PAW Patrol: The Movie",
+            "overview": "O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
+            "popularity": 112.865,
+            "poster_path": "/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
+            "release_date": "2021-08-09",
+            "title": "Patrulha Canina: O Filme",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 14836,
+            "original_language": "en",
+            "original_title": "Coraline",
+            "overview": "Entediada em sua nova casa, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Coraline se encanta com a descoberta, mas logo descobre que há algo de errado quando seus pais alternativos tentam mantê-la eternamente nesse mundo paralelo.",
+            "popularity": 118.148,
+            "poster_path": "/7IRKb2nIZric1iqHVIefj9pzgSE.jpg",
+            "release_date": "2009-02-05",
+            "title": "Coraline e o Mundo Secreto",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 6916
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sWulI556AJZ1DAQnxyAvnAAY6nd.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 73723,
+            "original_language": "en",
+            "original_title": "The Lorax",
+            "overview": "O menino Ted (Zac Efron) descobriu que o sonho de sua paixão, a bela Audrey (Taylor Swift), é ver uma árvore de verdade, algo em extinção. Disposto a realizar este desejo, ele embarca numa aventura por uma terra desconhecida, cheia de cor, natureza e árvores. É lá que conhece também o simpático e ao mesmo tempo rabugento Lorax (Danny DeVito), uma criatura curiosa preocupada com o futuro de seu próprio mundo.",
+            "popularity": 103.309,
+            "poster_path": "/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg",
+            "release_date": "2012-03-01",
+            "title": "O Lorax: Em Busca da Trúfula Perdida",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yEQqrW61rwNuVRHTjgHOAU4dXNE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10751,
+                35
+            ],
+            "id": 675353,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade e deixar sua marca como um herói, e Tom e Maddie concordam em deixá-lo em casa enquanto vão de férias. Mas, assim que eles se foram, Dr. Robotnik volta, desta vez com um novo parceiro, Knuckles, em busca de uma esmeralda que tem o poder de construir e destruir civilizações. Sonic se une a um novo companheiro, Tails, e juntos eles embarcam em uma jornada para encontrar a esmeralda antes que ela caia nas mãos erradas.",
+            "popularity": 117.17,
+            "poster_path": "/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
+            "release_date": "2022-04-08",
+            "title": "Sonic 2: O Filme",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 4187
+        }
+    ],
+    "total_pages": 1174,
+    "total_results": 23461
+}

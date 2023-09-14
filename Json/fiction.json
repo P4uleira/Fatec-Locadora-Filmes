@@ -1,0 +1,409 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 615656,
+            "original_language": "en",
+            "original_title": "Meg 2: The Trench",
+            "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+            "popularity": 2543.98,
+            "poster_path": "/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg",
+            "release_date": "2023-08-02",
+            "title": "Megatubarão 2",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1686
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 298618,
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "Quando Barry usa seus superpoderes para viajar no tempo e mudar os eventos do passado. Mas quando tenta salvar sua família e acaba, sem querer, alterando o futuro, Barry fica preso em uma realidade na qual o General Zod está de volta, ameaçando colocar o mundo em risco, e não há super-heróis a quem recorrer.",
+            "popularity": 1217.331,
+            "poster_path": "/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+            "release_date": "2023-06-13",
+            "title": "The Flash",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 2808
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
+            "popularity": 745.922,
+            "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "release_date": "2023-06-06",
+            "title": "Transformers: O Despertar das Feras",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 447365,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 3",
+            "overview": "Peter Quill, que ainda está se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+            "popularity": 443.773,
+            "poster_path": "/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+            "release_date": "2023-05-03",
+            "title": "Guardiões da Galáxia: Vol. 3",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 4777
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 76600,
+            "original_language": "en",
+            "original_title": "Avatar: The Way of Water",
+            "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+            "popularity": 310.042,
+            "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+            "release_date": "2022-12-14",
+            "title": "Avatar: O Caminho da Água",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 9730
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ixZzr4PyM2TPs5fka3IJj058WYo.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 565770,
+            "original_language": "en",
+            "original_title": "Blue Beetle",
+            "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+            "popularity": 281.566,
+            "poster_path": "/gA6sEygZlszxZZZTR5jD9rfleZO.jpg",
+            "release_date": "2023-08-16",
+            "title": "Besouro Azul",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 354
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/axIU0Ay88ZSfZHL5AlsQm64Bcb8.jpg",
+            "genre_ids": [
+                16,
+                878,
+                28,
+                12
+            ],
+            "id": 1121575,
+            "original_language": "en",
+            "original_title": "Babylon 5: The Road Home",
+            "overview": "Volte para Babylon 5 e acompanhe a épica saga interestelar em The Road Home. Viaje pela galáxia com John Sheridan, que se vê transportado por várias linhas do tempo e realidades alternativas na missão de encontrar seu caminho de volta para casa. Ao longo da jornada, ele encontra alguns rostos familiares e descobre novas revelações cósmicas sobre a história, propósito e significado do Universo.",
+            "popularity": 212.854,
+            "poster_path": "/zaXdRG8bCdK923JsmSej37j517C.jpg",
+            "release_date": "2023-08-15",
+            "title": "Babylon 5: O Caminho",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 640146,
+            "original_language": "en",
+            "original_title": "Ant-Man and the Wasp: Quantumania",
+            "overview": "Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..",
+            "popularity": 179.928,
+            "poster_path": "/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg",
+            "release_date": "2023-02-15",
+            "title": "Homem-Formiga e a Vespa: Quantumania",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 3933
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8FhKnPpql374qyyHAkZDld93IUw.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                878
+            ],
+            "id": 536437,
+            "original_language": "en",
+            "original_title": "Hypnotic",
+            "overview": "Um detetive se envolve em um mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de crimes que distorcem a realidade.",
+            "popularity": 207.261,
+            "poster_path": "/mv362kHXz4Yr33wtQhqfcJWFM8G.jpg",
+            "release_date": "2023-05-11",
+            "title": "Hipnótico",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 529
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+            "popularity": 198.207,
+            "poster_path": "/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+            "release_date": "2021-12-15",
+            "title": "Homem-Aranha: Sem Volta Para Casa",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 18228
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIMYSzp1fH1H9adKplekLD9BuNi.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878,
+                12
+            ],
+            "id": 1003581,
+            "original_language": "en",
+            "original_title": "Justice League: Warworld",
+            "overview": "Até agora, a Liga da Justiça tem sido uma associação informal de indivíduos superpoderosos.  Mas quando eles são arrastados para Warworld, um lugar de interminável combate brutal de gladiadores, Batman, Superman, Mulher-Maravilha e os outros devem de alguma forma se unir para formar uma resistência imbatível capaz de levar um planeta inteiro à liberdade.",
+            "popularity": 190.936,
+            "poster_path": "/yxXOMGosmqgjFicfmde61wnwQQ4.jpg",
+            "release_date": "2023-07-25",
+            "title": "Liga da Justiça: Mundo Bélico",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ccFavvHGfhA5yI32K0bzDjlyKSN.jpg",
+            "genre_ids": [
+                28,
+                18,
+                878
+            ],
+            "id": 813477,
+            "original_language": "ja",
+            "original_title": "シン・仮面ライダー",
+            "overview": "Um homem é forçado a ter poder e foi destituído de sua humanidade. Uma mulher é cética em relação à felicidade. Takeshi Hongo, o homem que sofreu o processo \"Augment\" feito pela SHOCKER, e Ruriko Midorikawa, uma rebelde da organização, scapam enquanto lutam contra assassinos. O que é a justiça? O que é o mal? Essa violência terá fim? Apesar de seu poder, Hongo tenta permanecer humano. Junto com a liberdade, Ruriko recuperou seu coração. Que caminhos eles escolherão?",
+            "popularity": 174.768,
+            "poster_path": "/rIpGaksuyaPH13QAHtE8ouVgA62.jpg",
+            "release_date": "2023-03-17",
+            "title": "Shin Kamen Rider",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 299536,
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+            "popularity": 165.59,
+            "poster_path": "/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg",
+            "release_date": "2018-04-25",
+            "title": "Vingadores: Guerra Infinita",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 27648
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rbqxeMXNCCwGErcO4e6eUZA9LG1.jpg",
+            "genre_ids": [
+                878,
+                27
+            ],
+            "id": 981314,
+            "original_language": "en",
+            "original_title": "Alien Invasion",
+            "overview": "Segue um grupo de amigos que encontra um ovo grande, mas mal sabiam eles que continha um predador indesejado. Agora eles devem impedi-lo de atingir a civilização.",
+            "popularity": 152.173,
+            "poster_path": "/kaSvEH3RJvQa6NfAuEVqDMBEk5E.jpg",
+            "release_date": "2023-05-11",
+            "title": "Alien Invasion",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 505642,
+            "original_language": "en",
+            "original_title": "Black Panther: Wakanda Forever",
+            "overview": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+            "popularity": 141.437,
+            "poster_path": "/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
+            "release_date": "2022-11-09",
+            "title": "Pantera Negra: Wakanda para Sempre",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 5417
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxnfMi4qW0bdAtcwCogrR9dRrqd.jpg",
+            "genre_ids": [
+                878,
+                9648,
+                53
+            ],
+            "id": 1103825,
+            "original_language": "en",
+            "original_title": "War of the Worlds: The Attack",
+            "overview": "Três jovens astrônomos lutam para sobreviver a uma invasão marciana mortal.",
+            "popularity": 158.196,
+            "poster_path": "/ltfivc9mEN3VoTNDlIyhGYctfH3.jpg",
+            "release_date": "2023-04-21",
+            "title": "War of the Worlds: The Attack",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uN005iCKRR900Xhx0HEvU4MbYN1.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 345940,
+            "original_language": "en",
+            "original_title": "The Meg",
+            "overview": "Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, um oceanógrafo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.",
+            "popularity": 120.173,
+            "poster_path": "/wrJkShDPK4TcV0nHix3HASEmkul.jpg",
+            "release_date": "2018-08-09",
+            "title": "Megatubarão",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 6978
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 436270,
+            "original_language": "en",
+            "original_title": "Black Adam",
+            "overview": "Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.",
+            "popularity": 143.178,
+            "poster_path": "/soHjr03YMSe5uUMaEQEe1lC145O.jpg",
+            "release_date": "2022-10-19",
+            "title": "Adão Negro",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 5437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jAmmb9RApuRckDJtYWeOgBUgQyG.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                878
+            ],
+            "id": 893712,
+            "original_language": "ja",
+            "original_title": "劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
+            "overview": "Mais de um mês se passou desde que 10.000 usuários ficaram presos dentro do mundo \"Sword Art Online\". Asuna, que finalizou o primeiro andar do castelo de ferro flutuante de Aincrad, juntou-se a Kirito e continuou sua jornada para chegar ao último andar. Com o apoio da corretora de informações Argo, concluir os andares parecia estar progredindo sem problemas, mas o conflito irrompe entre duas grandes guildas que deveriam estar trabalhando juntas - os principais grupos de jogadores do Esquadrão de Libertação de Aincrad e a Brigada dos Cavaleiros do Dragão. E enquanto isso, nos bastidores existe uma figura misteriosa puxando os cordelinhos…",
+            "popularity": 119.891,
+            "poster_path": "/8ICEmvxffvDoI8CSPtJYlBXrNce.jpg",
+            "release_date": "2022-10-22",
+            "title": "Sword Art Online Progressive: Scherzo do Crepúsculo Sombrio",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hT9ZUwLN5tB2O7miBu1oIMJFqJT.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 507086,
+            "original_language": "en",
+            "original_title": "Jurassic World Dominion",
+            "overview": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.",
+            "popularity": 128.538,
+            "poster_path": "/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+            "release_date": "2022-06-01",
+            "title": "Jurassic World: Domínio",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 5186
+        }
+    ],
+    "total_pages": 890,
+    "total_results": 17788
+}
