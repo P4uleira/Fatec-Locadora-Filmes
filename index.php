@@ -3,6 +3,8 @@
     teste();
 
 
+
+
 ?>
 
 
@@ -54,7 +56,7 @@
                 </li>
                 <li><a style="color: #F0F0F0;" href="#">Meus Filmes ALugados</a></li>
                 <br>
-                <li><a style="color: #F0F0F0;" href="#">Ação</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=action">Ação</a></li>
                 <li><a style="color: #F0F0F0;" href="#">Ficção</a></li>
                 <li><a style="color: #F0F0F0;" href="#">Animação</a></li>
                 <li><a style="color: #F0F0F0;" href="#">Comedia</a></li>
@@ -71,7 +73,15 @@
 
         <?php
         include 'apiFilmes.php';
-        listaFilmes();
+
+        if (isset($_GET['cat'])) {
+            $cat = $_GET['cat'];
+            listaFilmes($cat);
+        }else {
+            $cat = 'tendency';
+            listaFilmes($cat);
+        }
+        
         ?>
 
     </main>
