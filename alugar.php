@@ -1,16 +1,20 @@
-<?php
-    include 'request-api.php';
-    requestApi();
-?>
-
-
 <!DOCTYPE html>
-<html lang="pt-br">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Locadora-Fatec</title>
+    <title>Alugar - 
+        <?php 
+            if (isset($_GET['filme'])) {
+                $filme = $_GET['filme'];
+                printf($filme);
+            }else {
+                printf("Teste");
+            }      
+        
+        ?>
+
+    </title>
     <link rel="stylesheet" href="./style/reset.css">
     <link rel="stylesheet" href="./style/header.css">
     <link rel="stylesheet" href="./style/catalogo.css">
@@ -26,8 +30,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
-</head>
 
+</head>
 <body>
     <header>
         <div class="header">
@@ -66,32 +70,41 @@
             </ul>
         </div>
     </header>
-    <main class="main">
-        <section class="chamada">
-            <p>Bem vindo a sua melhor locadora de filmes!</p>
-        </section>
-
-        <?php
-        include 'apiFilmes.php';
-
-        if (isset($_GET['cat'])) {
-            $cat = $_GET['cat'];
-            listaFilmes($cat);
-        } else if (isset($_GET['name'])) {
-            $name = $_GET['name'];
-            buscaPorNome($name);
-        }
-        else {
-            $cat = 'tendency';
-            listaFilmes($cat);
-        }
-
-        
-        ?>
-
+    <main class="main container">
+        <form action="">
+            <?php 
+                include 'request-api.php';
+                include 'apiFilmes.php';
+                if (isset($_GET['id'])) {
+                    $id = $_GET['id'];
+                    $cat = $_GET['cat'];
+                    alugarfilme($id, $cat);
+                } 
+            
+            ?>
+            
+            <div class="form-group">
+                <label for="inputCPF">Valor do Filme</label>
+                <?php
+                    echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"aaaa\">";
+                ?>
+            </div> 
+            <div class="form-group">
+                <label for="inputCPF">CPF</label>
+                <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF">
+            </div>            
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Alugar por quantos dias?</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                    <option>1 Dia</option>
+                    <option>2 Dias</option>
+                    <option>3 Dias</option>
+                    <option>4 Dias</option>
+                    <option>5 Dias</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Alugar</button>
+        </form>
     </main>
-    
-    <script src="Js/main.js"></script>
 </body>
-
 </html>

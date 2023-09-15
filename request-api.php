@@ -261,10 +261,9 @@ function requestApi() {
 function buscaPorNome($name)
 {
 
-    $alterada = strtolower(str_replace(" ", "-", $name));
+    echo "Mostrando opções para ". $name;
     $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
     $curl = curl_init();
-
 
     curl_setopt_array($curl, [
         CURLOPT_URL => "https://api.themoviedb.org/3/search/movie?".$apiKey."&query=".$name."&language=pt-BR",
@@ -284,16 +283,49 @@ function buscaPorNome($name)
     curl_close($curl);
 
     $filmes = json_decode($respostaApi);
-
+    echo "<div class=\"box-filme\">";
     foreach ($filmes->results as $filme) {
         $releaseYear = new DateTimeImmutable($filme->release_date);
-        echo "<div class=\"box-poster\">";
+        echo "<div class=\"box-poster\"><a onclick=\"alugarFilme(".$filme->id. ", ".$filme->genre_ids[0].")\">";
         echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
         echo "<h6 class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
-        echo "</div>";
+        echo "</a></div>";
         echo "</br>";
     }
     echo "</div>";
+
+
+}
+
+function alugarfilme($id, $cat) {
+  switch ($cat) {
+    case '28':
+      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\action.json';
+
+      $conteudoJson = file_get_contents($file);           
+      $filmes = json_decode($conteudoJson);
+      break;
+    
+    default:
+      # code...
+      break;
+  } 
+  
+  foreach ($filmes->results as $filme) {
+    if ($filme->id == $id) {      
+        
+      $releaseYear = new DateTimeImmutable($filme->release_date);
+      echo "<div class=\"box-filme\">";
+      echo "<div class=\"box-poster\">";
+      echo "<h6 style=\"text-align: center;\" class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
+      echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
+      echo "</div></br></div>";      
+
+      break; 
+    }
+}
+  
+
 
 
 }

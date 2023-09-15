@@ -16,6 +16,5 @@ function listaFilmes($cat)
     }
     echo "</div>";
 }
-echo "</div>";
 
 ?>
