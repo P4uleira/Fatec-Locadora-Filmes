@@ -6,9 +6,9 @@ header {
     width: 100%;
 }
 
-.container{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    background-color: #F0F0F0;
+.tituloPrincipal {
+    color: #183D3D;
+    color: inherit;
+    text-decoration: none;
+    margin-top: 10px;
 }

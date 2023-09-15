@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @media screen and (max-width: 768px) {
     html, body {
         overflow-x: hidden;
         height: 100%;
     }
     body {
-        background: #F0F0F0 !important;
+        background: #FFF6E0 !important;
         padding: 0;
         margin: 0;
-        font-family: 'Varela Round', sans-serif;
+        font-family: 'Roboto Mono', monospace;
     }
     .header {
         display: block;
@@ -16,7 +16,7 @@
         width: 100%;
         max-width: 100%;
         box-shadow: none;
-        background-color: #213555;
+        background-color: #040D12 !important;
         position: fixed;
         height: 60px!important;
         overflow: hidden;
@@ -49,7 +49,7 @@
         margin-top: 60px;
         transform: translateX(-250px);
         transition: transform 250ms ease-in-out;
-        background: #4F709C;
+        background: #183D3D;
     }
     .sidebarMenuInner{
         margin:0;
