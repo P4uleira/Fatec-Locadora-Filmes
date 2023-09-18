@@ -1,4 +1,73 @@
 <?php
+function adicionarPreco($caminho, $genero) {
+  $json = file_get_contents($caminho);
+    
+    // Decodifica o JSON em um array associativo
+    $dados = json_decode($json, true);
+
+    // Verifica se a decodificação foi bem-sucedida
+    if ($dados === null) {
+        throw new Exception("Falha ao decodificar o JSON");
+    }
+
+    $preco;
+
+    switch ($genero){
+      case "action": 
+  
+        $preco = '0.30';      
+        break;
+      case 'fiction':        
+        $preco = '0.40';      
+        break;
+      case 'animation': 
+      
+        $preco = '0.35';
+        
+        break;
+      case 'comedy': 
+            
+        $preco = '0.35';
+            
+        break;
+      case 'drama': 
+              
+        $preco = '0.20';
+              
+        break;
+      case 'family': 
+                
+        $preco = '0.50';
+                
+        break;
+      case 'horror': 
+                  
+        $preco = '0.45';
+                  
+        break;
+        default:
+          $preco = '0.25';
+          break;
+
+    }
+
+    foreach ($dados['results'] as &$resultado) {
+      $resultado["preco"] = $preco; // Substitua 'valor_do_atributo' pelo valor desejado
+    }
+
+    $jsonModificado = json_encode($dados, JSON_PRETTY_PRINT);
+
+    // Verifica se a codificação foi bem-sucedida
+    if ($jsonModificado === false) {
+        throw new Exception("Falha ao codificar os dados em JSON");
+    }
+
+    // Escreve o JSON modificado de volta no arquivo
+    if (file_put_contents($caminho, $jsonModificado) === false) {
+        throw new Exception("Falha ao escrever os dados de volta no arquivo");
+    }
+}
+
 
 function requestApi($genero) {
   $generoId = 'tendency';
@@ -96,10 +165,10 @@ function requestApi($genero) {
     
   curl_close($curl);
 
-  if(file_exists($caminho . $generoApiRequest)){
-  }else{
-      $generoFilmes = $caminho . $generoApiRequest;
-      file_put_contents($generoFilmes, $respostaApi);
+  if(!file_exists($caminho . $generoApiRequest)){
+    $generoFilmes = $caminho . $generoApiRequest;
+    file_put_contents($generoFilmes, $respostaApi);
+    adicionarPreco($generoFilmes, $genero);
   }
 
 /*
@@ -393,8 +462,6 @@ function alugarfilme($id, $cat) {
       break; 
     }
 }
-  
-
 
 
 }
