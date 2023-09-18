@@ -83,12 +83,7 @@
             
             ?>
             
-            <div class="form-group">
-                <label for="inputCPF">Valor do Filme</label>
-                <?php
-                    echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"aaaa\">";
-                ?>
-            </div> 
+             
             <div class="form-group">
                 <label for="inputCPF">CPF</label>
                 <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF">
@@ -102,6 +97,12 @@
                     <option>4 Dias</option>
                     <option>5 Dias</option>
                 </select>
+            </div>
+            <div class="form-group">
+                <label for="inputCPF">Valor do Filme</label>
+                <?php
+                    echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"R$\">";
+                ?>
             </div>
             <button type="submit" class="btn btn-primary">Alugar</button>
         </form>
