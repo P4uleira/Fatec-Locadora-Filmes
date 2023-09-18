@@ -1,15 +1,83 @@
 <?php
 
-function requestApi() {
-  $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
-
+function requestApi($genero) {
+  $generoId;
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
+  $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
+  switch($genero){
+    case "action": 
+  
+        $generoId = '28';
+      
+      break;
+      case 'fiction': 
+        
+          $generoId = '878';
+      
+        break;
+        case 'animation': 
+        
+            $generoId = '16';
+          
+          break;
+          case 'comedy': 
+            
+              $generoId = '35';
+            
+            break;
+            case 'drama': 
+              
+                $generoId = '18';
+              
+              break;
+              case 'family': 
+                
+                  $generoId = '10751';
+                
+                break;
+                case 'horror': 
+                  
+                    $generoId = '27';
+                  
+                  break;
+                  default:
+                  $curl = curl_init();
+
+                  curl_setopt_array($curl, [
+                    CURLOPT_URL => "https://api.themoviedb.org/3/trending/movie/week?api_key=" . $apiKey . "?language=pt-BR",
+                    CURLOPT_RETURNTRANSFER => true,
+                    CURLOPT_ENCODING => "",
+                    CURLOPT_MAXREDIRS => 10,
+                    CURLOPT_TIMEOUT => 30,
+                    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+                    CURLOPT_CUSTOMREQUEST => "GET",
+                    CURLOPT_HTTPHEADER => [
+                      "Authorization: Bearer " . $apiKey,
+                      "accept: application/json"
+                    ],
+                  ]);
+                
+                  $respostaApi = curl_exec($curl);
+                
+                  $erroApi = curl_error($curl);
+                  $generoApiRequest = $genero . ".json"; 
+                  curl_close($curl);
+                
+                  if(file_exists($caminho . $generoApiRequest)){
+                  }else{
+                      $generoFilmes = $caminho . $generoApiRequest;
+                      file_put_contents($generoFilmes, $respostaApi);
+                  }
+                  break;
+  }
+
+  
 
   //Tendency movie request
   $curl = curl_init();
 
   curl_setopt_array($curl, [
-    CURLOPT_URL => "https://api.themoviedb.org/3/trending/movie/week?api_key=" . $apiKey . "?language=pt-BR",
+    CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?with_genres=". $generoId ."&language=pt-BR",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -24,17 +92,17 @@ function requestApi() {
 
   $respostaApi = curl_exec($curl);
 
-  $erroApi = curl_error($curl);
+  $generoApiRequest = $genero . ".json";
     
   curl_close($curl);
 
-  if(file_exists($caminho . "tendency.json")){
+  if(file_exists($caminho . $generoApiRequest)){
   }else{
-      $tendencyJson = $caminho . "tendency.json";
-      file_put_contents($tendencyJson, $respostaApi);
+      $generoFilmes = $caminho . $generoApiRequest;
+      file_put_contents($generoFilmes, $respostaApi);
   }
 
-
+/*
   //Action movie request
   $curl = curl_init();
 
@@ -256,6 +324,7 @@ function requestApi() {
       $horrorJson = $caminho . "horror.json";
       file_put_contents($horrorJson, $respostaApi);
   }
+  */
 }
 
 function buscaPorNome($name)

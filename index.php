@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 <?php
     include 'request-api.php';
     requestApi();
 ?>
 
 
+=======
+>>>>>>> BranchPaulo
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -29,6 +32,17 @@
 </head>
 
 <body>
+
+    <?php
+        include 'request-api.php';
+    if(!isset($_GET['cat'])){
+        
+        $genero = "tendency";
+        requestApi($genero);   
+        
+    }
+    ?>
+
     <header>
         <div class="header">
             <h2 style="text-align: center;" class="display">
@@ -75,7 +89,9 @@
         include 'apiFilmes.php';
 
         if (isset($_GET['cat'])) {
+            $genero = $_GET['cat'];
             $cat = $_GET['cat'];
+            requestApi($genero);
             listaFilmes($cat);
         } else if (isset($_GET['name'])) {
             $name = $_GET['name'];
