@@ -1,7 +1,7 @@
 <?php
 
 function requestApi($genero) {
-  $generoId;
+  $generoId = 'tendency';
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
   switch($genero){
