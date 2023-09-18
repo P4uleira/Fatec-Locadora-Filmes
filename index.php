@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<?php
-    include 'request-api.php';
-    requestApi();
-?>
-
-
-=======
->>>>>>> BranchPaulo
 <!DOCTYPE html>
 <html lang="pt-br">
 
