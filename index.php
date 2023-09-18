@@ -1,9 +1,3 @@
-<?php
-include 'request-api.php';
-requestApi();
-?>
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -29,6 +23,17 @@ requestApi();
 </head>
 
 <body>
+
+    <?php
+        include 'request-api.php';
+    if(!isset($_GET['cat'])){
+        
+        $genero = "tendency";
+        requestApi($genero);   
+        
+    }
+    ?>
+
     <header>
         <div class="header">
             <h2 style="text-align: center;" class="display">Locadora</h2>
@@ -71,7 +76,9 @@ requestApi();
         include 'apiFilmes.php';
 
         if (isset($_GET['cat'])) {
+            $genero = $_GET['cat'];
             $cat = $_GET['cat'];
+            requestApi($genero);
             listaFilmes($cat);
         } else {
             $cat = 'tendency';
