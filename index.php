@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./style/reset.css">
     <link rel="stylesheet" href="./style/header.css">
     <link rel="stylesheet" href="./style/catalogo.css">
+    <link rel="stylesheet" href="./style/desktop.css">
     <link rel="stylesheet" href="./style/header-tablet.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -38,7 +39,7 @@
         <div class="header">
             <h2 style="text-align: center;" class="display">
                 <a class="tituloPrincipal" href="index.php">
-                    <span style="cursor:pointer">Locadora Poggers</span>
+                    <span style="color: #F0F0F0;" style="cursor:pointer">LOCADORA POGGERS</span>
                 </a>
             </h2>
         </div>
@@ -59,21 +60,21 @@
                         </div>
                     </div>
                 </li>
-                <li><a style="color: #F0F0F0;" href="#">Meus Filmes ALugados</a></li>
+                <li><a style="color: #F0F0F0;" href="#">Meus Filmes Alugados</a></li>
                 <br>
                 <li><a style="color: #F0F0F0;" href="index.php?cat=action">Ação</a></li>
                 <li><a style="color: #F0F0F0;" href="index.php?cat=fiction">Ficção</a></li>
                 <li><a style="color: #F0F0F0;" href="index.php?cat=animation">Animação</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=comedy">Comedia</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=comedy">Comédia</a></li>
                 <li><a style="color: #F0F0F0;" href="index.php?cat=drama">Drama</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=family">Familia</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=family">Família</a></li>
                 <li><a style="color: #F0F0F0;" href="index.php?cat=horror">Terror</a></li>
             </ul>
         </div>
     </header>
     <main class="main">
         <section class="chamada">
-            <p>Bem vindo a sua melhor locadora de filmes!</p>
+            <p><strong style="color: #183D3D" ><a style="font-size: 24px;">Bem Vindo à Melhor Locadora de Filmes!</strong></a></p>
         </section>
 
         <?php
