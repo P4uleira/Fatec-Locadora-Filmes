@@ -5,7 +5,7 @@
         height: 100%;
     }
     body {
-        background: #FFF6E0 !important;
+        background: #CCC8AA !important;
         padding: 0;
         margin: 0;
         font-family: 'Roboto Mono', monospace;
@@ -16,7 +16,7 @@
         width: 100%;
         max-width: 100%;
         box-shadow: none;
-        background-color: #040D12 !important;
+        background-color: #313536 !important;
         position: fixed;
         height: 60px!important;
         overflow: hidden;

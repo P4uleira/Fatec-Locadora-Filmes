@@ -30,10 +30,12 @@
     box-shadow: 8px 11px 28px 1px rgba(85,101,114,0.79);
     -webkit-box-shadow: 8px 11px 28px 1px rgba(85,101,114,0.79);
     -moz-box-shadow: 8px 11px 28px 1px rgba(85,101,114,0.79);
+    margin: 6 auto; 
+    display: block; 
     margin-bottom: 1rem;
 }
 
-@media screen and (max-width: 768px) {
+
 
     .chamada {
         display: flex;
@@ -65,4 +67,4 @@
         max-width: 200px;
     }
 
-}
+
