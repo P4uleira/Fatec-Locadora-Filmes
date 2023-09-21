@@ -73,7 +73,7 @@
     <main class="main container">
         <form action="">
             <?php 
-                include 'request-api.php';
+                include 'alugar-api.php';
                 include 'apiFilmes.php';
                 if (isset($_GET['id'])) {
                     $id = $_GET['id'];

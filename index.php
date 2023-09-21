@@ -26,12 +26,12 @@
 
     <?php
         include 'request-api.php';
-    if(!isset($_GET['cat'])){
-        
-        $genero = "tendency";
-        requestApi($genero);   
-        
-    }
+        if(!isset($_GET['cat'])){
+            
+            $genero = "tendency";
+            requestApi($genero);   
+            
+        }
     ?>
 
     <header>
