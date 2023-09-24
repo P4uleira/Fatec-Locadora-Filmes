@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alugar - 
-        <?php 
-            if (isset($_GET['filme'])) {
-                $filme = $_GET['filme'];
-                printf($filme);
-            }else {
-                printf("Teste");
-            }      
-        
+    <title>Alugar -
+        <?php
+        if (isset($_GET['filme'])) {
+            $filme = $_GET['filme'];
+            printf($filme);
+        } else {
+            printf("Teste");
+        }
+
         ?>
 
     </title>
@@ -32,6 +33,7 @@
         crossorigin="anonymous"></script>
     <script src="./Js/main.js"></script>
 </head>
+
 <body>
     <header>
         <div class="header">
@@ -72,25 +74,25 @@
     </header>
     <main class="main container">
         <form action="">
-            <?php 
-                include 'alugar-api.php';
-                include 'apiFilmes.php';
-                if (isset($_GET['id'])) {
-                    $id = $_GET['id'];
-                    $cat = $_GET['cat'];
-                    alugarfilme($id, $cat);
-                } 
-            
+            <?php
+            include 'alugar-api.php';
+            include 'apiFilmes.php';
+            if (isset($_GET['id'])) {
+                $id = $_GET['id'];
+                $cat = $_GET['cat'];
+                alugarfilme($id, $cat);
+            }
+
             ?>
-            
-             
+
+
             <div class="form-group">
                 <label for="inputCPF">CPF</label>
                 <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF">
-            </div>            
+            </div>
             <div class="form-group">
                 <label for="exampleFormControlSelect1">Alugar por quantos dias?</label>
-                    <select class="form-control" id="exampleFormControlSelect1">
+                <select class="form-control" id="exampleFormControlSelect1">
                     <option>1 Dia</option>
                     <option>2 Dias</option>
                     <option>3 Dias</option>
@@ -101,11 +103,12 @@
             <div class="form-group">
                 <label for="inputCPF">Valor do Filme</label>
                 <?php
-                    echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"R$\">";
+                echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"R$\">";
                 ?>
             </div>
             <button type="submit" class="btn btn-primary">Alugar</button>
         </form>
     </main>
 </body>
+
 </html>
