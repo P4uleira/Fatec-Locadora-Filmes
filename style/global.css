@@ -7,8 +7,15 @@ header {
 }
 
 .tituloPrincipal {
-    color: #183D3D;
-    color: inherit;
+    color: #FFF6E0 ;    
     text-decoration: none;
+}
+
+.tituloPrincipal:hover {
+    text-decoration: none;
+    color: #FFF6E0 ; 
+}
+
+.display {
     margin-top: 10px;
 }
