@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Locadora-Fatec</title>
     <link rel="stylesheet" href="./style/reset.css">
+    <link rel="stylesheet" href="./style/global.css">
     <link rel="stylesheet" href="./style/header.css">
     <link rel="stylesheet" href="./style/catalogo.css">
     <link rel="stylesheet" href="./style/header-tablet.css">

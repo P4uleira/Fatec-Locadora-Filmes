@@ -1,68 +1,58 @@
 <?php
-
-function alugarfilme($id, $cat)
-{
-  switch ($cat) {
-    case '28':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\action.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    case '878':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\fiction.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    case '16':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\animation.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    case '35':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\comedy.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    case '18':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\drama.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    case '10751':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\family.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    case '27':
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\horror.json';
-
-      $conteudoJson = file_get_contents($file);
-      $filmes = json_decode($conteudoJson);
-      break;
-    default:
-      # code...
-      break;
-  }
-
-  foreach ($filmes->results as $filme) {
-    if ($filme->id == $id) {
-
-      $releaseYear = new DateTimeImmutable($filme->release_date);
-      echo "<div class=\"box-filme\">";
-      echo "<div class=\"box-poster\">";
-      echo "<h6 style=\"text-align: center;\" class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
-      echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
-      echo "</div></br></div>";
-
-      break;
+include 'request-api.php';
+function alugarfilme($id, $cat) {
+    $file;
+    switch ($cat) {
+        case '28':
+          requestApi('action');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\action.json';         
+        break;
+        case '878':
+          requestApi('fiction');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\fiction.json';
+        break;
+        case '16':
+          requestApi('animation');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\animation.json';
+        break;
+        case '35':
+          requestApi('comedy');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\comedy.json';
+        break;
+        case '18':
+          requestApi('drama');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\drama.json';
+        break;
+        case '10751':
+          requestApi('family');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\family.json';
+        break;
+        case '27':
+          requestApi('horror');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\horror.json';
+        break;        
+        default:
+          requestApi('tendency');
+          $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\tendecy.json';
+        break;
     }
-  }
+    $conteudoJson = file_get_contents($file);           
+    $filmes = json_decode($conteudoJson); 
+  
+    foreach ($filmes->results as $filme) {
+        if ($filme->id == $id) {      
+            
+          echo "<div class=\"box-filme\">";          
+              $releaseYear = new DateTimeImmutable($filme->release_date);
+              echo "<div class=\"box-poster\">";
+              echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
+              echo "<h6 class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
+              echo "</div>";
+              echo "</br>";
+          
+          echo "</div>";
+        }
+    }
 }
 
 function adicionarPreco($caminho, $genero)

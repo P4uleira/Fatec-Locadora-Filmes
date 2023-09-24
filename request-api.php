@@ -102,7 +102,7 @@ function requestApi($genero)
   if (!file_exists($caminho . $generoApiRequest)) {
     $generoFilmes = $caminho . $generoApiRequest;
     file_put_contents($generoFilmes, $respostaApi);
-    adicionarPreco($generoFilmes, $genero);
+    //adicionarPreco($generoFilmes, $genero);
   }
 
 }
