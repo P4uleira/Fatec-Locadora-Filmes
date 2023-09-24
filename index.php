@@ -26,12 +26,12 @@
 <body>
 
     <?php
-        include 'request-api.php';
-    if(!isset($_GET['cat'])){
-        
+    include 'request-api.php';
+    if (!isset($_GET['cat'])) {
+
         $genero = "tendency";
-        requestApi($genero);   
-        
+        requestApi($genero);
+
     }
     ?>
 
@@ -56,7 +56,7 @@
                         <input id="titulo" type="text" class="form-control" placeholder="Buscar Filme"
                             aria-label="Buscar" aria-describedby="basic-addon2">
                         <div class="input-group-append">
-                            <a onclick="informaNome()" class="btn btn-outline-secondary" type="button">a</a>
+                            <a onclick="informaNome()" name="name" class="btn btn-outline-secondary" type="button">a</a>
                         </div>
                     </div>
                 </li>
@@ -88,17 +88,16 @@
         } else if (isset($_GET['name'])) {
             $name = $_GET['name'];
             buscaPorNome($name);
-        }
-        else {
+        } else {
             $cat = 'tendency';
             listaFilmes($cat);
         }
 
-        
+
         ?>
 
     </main>
-    
+
     <script src="Js/main.js"></script>
 </body>
 
