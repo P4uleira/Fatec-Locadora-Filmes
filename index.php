@@ -55,7 +55,7 @@
                         <input id="titulo" type="text" class="form-control" placeholder="Buscar Filme"
                             aria-label="Buscar" aria-describedby="basic-addon2">
                         <div class="input-group-append">
-                            <a onclick="informaNome()" class="btn btn-outline-secondary" type="button">a</a>
+                            <a onclick="informaNome()" name="name"class="btn btn-outline-secondary" type="button">a</a>
                         </div>
                     </div>
                 </li>

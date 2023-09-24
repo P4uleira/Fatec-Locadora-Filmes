@@ -1,0 +1,404 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 565770,
+            "original_language": "en",
+            "original_title": "Blue Beetle",
+            "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+            "popularity": 2763.496,
+            "poster_path": "/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg",
+            "release_date": "2023-08-16",
+            "title": "Besouro Azul",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 703
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 385687,
+            "original_language": "en",
+            "original_title": "Fast X",
+            "overview": "O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.",
+            "popularity": 1995.539,
+            "poster_path": "/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+            "release_date": "2023-05-17",
+            "title": "Velozes & Furiosos 10",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3786
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 615656,
+            "original_language": "en",
+            "original_title": "Meg 2: The Trench",
+            "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+            "popularity": 2027.1,
+            "poster_path": "/klGKGITBYYyTiHrph1VDSgGULOR.jpg",
+            "release_date": "2023-08-02",
+            "title": "Megatubarão 2",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1866
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+            "genre_ids": [
+                28,
+                9648,
+                53,
+                80
+            ],
+            "id": 762430,
+            "original_language": "en",
+            "original_title": "Retribution",
+            "overview": "Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  família.",
+            "popularity": 1928.276,
+            "poster_path": "/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg",
+            "release_date": "2023-08-23",
+            "title": "A Chamada",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 717930,
+            "original_language": "en",
+            "original_title": "Kandahar",
+            "overview": "Um agente disfarçado da CIA chamado Tom Harris, que está designado para o Oriente Médio. Um vazamento de inteligência expõe perigosamente sua missão secreta e revela sua identidade secreta. Preso no coração de um território hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extração em Kandahar, no Afeganistão, enquanto escapam das forças especiais de elite que os caçam.",
+            "popularity": 1248.444,
+            "poster_path": "/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
+            "release_date": "2023-05-25",
+            "title": "Missão de Sobrevivência",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 335977,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Dial of Destiny",
+            "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.",
+            "popularity": 900.495,
+            "poster_path": "/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg",
+            "release_date": "2023-06-28",
+            "title": "Indiana Jones e A Relíquia do Destino",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1677
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 678512,
+            "original_language": "en",
+            "original_title": "Sound of Freedom",
+            "overview": "A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.",
+            "popularity": 774.046,
+            "poster_path": "/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg",
+            "release_date": "2023-07-03",
+            "title": "Som da Liberdade",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28
+            ],
+            "id": 614930,
+            "original_language": "en",
+            "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            "overview": "Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para ganhar os corações dos nova yorkinos e serem aceitos como adolescentes normais através de seus atos heroicos. Sua nova amiga, April O’Neil, vai ajudá-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus lençóis quando um exército de mutantes vai atrás deles.",
+            "popularity": 702.535,
+            "poster_path": "/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg",
+            "release_date": "2023-07-31",
+            "title": "As Tartarugas Ninjas: Caos Mutante",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
+            "popularity": 701.339,
+            "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "release_date": "2023-06-06",
+            "title": "Transformers: O Despertar das Feras",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12
+            ],
+            "id": 569094,
+            "original_language": "en",
+            "original_title": "Spider-Man: Across the Spider-Verse",
+            "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+            "popularity": 691.013,
+            "poster_path": "/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+            "release_date": "2023-05-31",
+            "title": "Homem-Aranha: Através do Aranhaverso",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 4291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 298618,
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua família altera inadvertidamente o futuro.",
+            "popularity": 615.729,
+            "poster_path": "/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg",
+            "release_date": "2023-06-13",
+            "title": "The Flash",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 2892
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9fOfsVHZHig6MHPHczv0zMY6cKc.jpg",
+            "genre_ids": [
+                28,
+                53,
+                10752,
+                18
+            ],
+            "id": 1880,
+            "original_language": "en",
+            "original_title": "Red Dawn",
+            "overview": "Quando a cidade de 8 jovens é invadida por soldados soviéticos e cubanos, e gradativamente por forças militares, eles tomam a decisão de irem para as montanhas. Os adolescentes então adotam o nome da equipe de futebol do colégio, os Wolverines, e formam uma guerrilha armada contra o comunismo, e em defesa da família, dos amigos e dos Estados Unidos.",
+            "popularity": 530.916,
+            "poster_path": "/p66hn6JWfBZe9kj2UdYp3p2LRsK.jpg",
+            "release_date": "1984-08-10",
+            "title": "Amanhecer Violento",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3mYCjwll5RG342Dz1f8HcnT8tV.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 606403,
+            "original_language": "ko",
+            "original_title": "특송",
+            "overview": "\"Eu entrego tudo o que o serviço de correios não lida.\" Eun-ha, que é um funcionária normal de um ferro-velho, trabalha secretamente como balconista de entrega que lida com solicitações de entrega incomuns. Um dia, Eun-ha vai para Seul buscar um cliente envolvido em um crime de jogo que quer fugir para o exterior. No entanto, Eun-ha encontra o filho mais novo do cliente no ponto de retirada, em vez do próprio cliente. Kyeong-pil, um policial atual que está realmente idealizando todo o crime de jogo, persegue a criança desaparecida que tem a chave de segurança da conta bancária que detém 30 milhões de dólares.",
+            "popularity": 534.888,
+            "poster_path": "/hDQndBAnyk1MCwszODgb5BgM6go.jpg",
+            "release_date": "2022-01-12",
+            "title": "Special Delivery",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rV56FkcHkzHJcBOOqoCeSDnoBff.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 990140,
+            "original_language": "cn",
+            "original_title": "天龍八部之喬峰傳",
+            "overview": "Qiao Feng é o líder respeitado de um bando itinerante de artistas marciais. Depois de ser injustamente acusado de assassinato e posteriormente exilado, Qiao Feng foge em busca de respostas sobre sua própria história misteriosa de origem - e os inimigos desconhecidos que trabalham para destruí-lo das sombras.",
+            "popularity": 520.205,
+            "poster_path": "/vvWyOCmBAND2p9UwaXZdALIDd2W.jpg",
+            "release_date": "2023-01-16",
+            "title": "Sakra",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 603692,
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+            "popularity": 550.923,
+            "poster_path": "/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+            "release_date": "2023-03-22",
+            "title": "John Wick 4: Baba Yaga",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4566
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 299054,
+            "original_language": "en",
+            "original_title": "Expend4bles",
+            "overview": "Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.",
+            "popularity": 504.006,
+            "poster_path": "/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg",
+            "release_date": "2023-09-15",
+            "title": "Os Mercenários 4",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wVFtesa5YEWuAUHRcxoCN1Y1uN.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1085218,
+            "original_language": "da",
+            "original_title": "Underverden 2",
+            "overview": "",
+            "popularity": 548.005,
+            "poster_path": "/A8EPXv3SV9qiNCIttIM4ezJRmhW.jpg",
+            "release_date": "2023-04-13",
+            "title": "Underverden 2",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3MlOdGahzlASqDWCRl6x474Fphk.jpg",
+            "genre_ids": [
+                28,
+                9648,
+                53
+            ],
+            "id": 1152238,
+            "original_language": "en",
+            "original_title": "Sons of Summer",
+            "overview": "",
+            "popularity": 436.631,
+            "poster_path": "/d69N1b1bPBBUwo9YQ6M2WKotLpm.jpg",
+            "release_date": "2023-07-28",
+            "title": "Sons of Summer",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0nmmdFAdBjQttN8Y0q825MWzZp.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 926393,
+            "original_language": "en",
+            "original_title": "The Equalizer 3",
+            "overview": "Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local.  À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.",
+            "popularity": 411.459,
+            "poster_path": "/p4Qn2hhKoz8My9ysN1RK223iVM5.jpg",
+            "release_date": "2023-08-30",
+            "title": "O Protetor: Capitulo Final",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2QL5j6mB4ZpyBcVr0WO9H9MQGBu.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                14
+            ],
+            "id": 734253,
+            "original_language": "hi",
+            "original_title": "आदिपुरुष",
+            "overview": "Durante um longo exílio, um príncipe guerreiro parte em uma jornada épica por terra e mar para salvar sua esposa de um rei demônio.",
+            "popularity": 469.428,
+            "poster_path": "/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+            "release_date": "2023-06-16",
+            "title": "O Príncipe Justiceiro",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 40
+        }
+    ],
+    "total_pages": 1871,
+    "total_results": 37415
+}

@@ -1,7 +1,7 @@
 <?php
+include 'alugar-api.php';
 
-
-
+//Função para realizar pedidos a API do site The Movies DataBase
 function requestApi($genero) {
   $generoId = 'tendency';
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
@@ -75,7 +75,7 @@ function requestApi($genero) {
 
   
 
-  //Tendency movie request
+  //Requisão da página de tendências do momento.
   $curl = curl_init();
 
   curl_setopt_array($curl, [
@@ -106,6 +106,7 @@ function requestApi($genero) {
 
 }
 
+//Busca por nome do filme, o mesmo retorna do site todos os filmes com o mesmo nome buscado.
 function buscaPorNome($name)
 {
 
