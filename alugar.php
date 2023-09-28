@@ -18,6 +18,7 @@
     </title>
     <link rel="stylesheet" href="./style/reset.css">
     <link rel="stylesheet" href="./style/header.css">
+    <link rel="stylesheet" href="./style/global.css">
     <link rel="stylesheet" href="./style/catalogo.css">
     <link rel="stylesheet" href="./style/header-tablet.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
