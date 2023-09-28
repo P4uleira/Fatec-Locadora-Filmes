@@ -62,13 +62,13 @@
                 </li>
                 <li><a style="color: #F0F0F0;" href="#">Meus Filmes ALugados</a></li>
                 <br>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=action">Ação</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=fiction">Ficção</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=animation">Animação</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=comedy">Comedia</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=drama">Drama</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=family">Familia</a></li>
-                <li><a style="color: #F0F0F0;" href="index.php?cat=horror">Terror</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=28">Ação</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=878">Ficção</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=16">Animação</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=35">Comedia</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=18">Drama</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=10751">Familia</a></li>
+                <li><a style="color: #F0F0F0;" href="index.php?cat=27">Terror</a></li>
             </ul>
         </div>
     </header>
