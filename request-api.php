@@ -1,49 +1,15 @@
 <?php
-include 'alugar-api.php';
+
 
 //Função para realizar pedidos a API do site The Movies DataBase
-function requestApi($genero)
-{
-  $generoId = 'tendency';
+function requestApi($genero){
+
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
-  switch ($genero) {
-    case "action":
+    if($genero === null){
 
-      $generoId = '28';
-
-      break;
-    case 'fiction':
-
-      $generoId = '878';
-
-      break;
-    case 'animation':
-
-      $generoId = '16';
-
-      break;
-    case 'comedy':
-
-      $generoId = '35';
-
-      break;
-    case 'drama':
-
-      $generoId = '18';
-
-      break;
-    case 'family':
-
-      $generoId = '10751';
-
-      break;
-    case 'horror':
-
-      $generoId = '27';
-
-      break;
-    default:
+    
+    
       $curl = curl_init();
 
       curl_setopt_array($curl, [
@@ -71,8 +37,7 @@ function requestApi($genero)
         $generoFilmes = $caminho . $generoApiRequest;
         file_put_contents($generoFilmes, $respostaApi);
       }
-      break;
-  }
+    }
 
 
 
@@ -80,7 +45,7 @@ function requestApi($genero)
   $curl = curl_init();
 
   curl_setopt_array($curl, [
-    CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?with_genres=" . $generoId . "&language=pt-BR",
+    CURLOPT_URL => "https://api.themoviedb.org/3/discover/movie?with_genres=" . $genero . "&language=pt-BR",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
