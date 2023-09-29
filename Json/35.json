@@ -1,0 +1,421 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 346698,
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
+            "popularity": 1062.817,
+            "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+            "release_date": "2023-07-19",
+            "title": "Barbie",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 5045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "popularity": 677.12,
+            "poster_path": "/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elementos",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 2403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                28,
+                12
+            ],
+            "id": 790493,
+            "original_language": "en",
+            "original_title": "Spy Kids: Armageddon",
+            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um vírus de computador que lhe dá o controle de toda a tecnologia, eles próprios devem se tornar espiões para salvar seus pais e o mundo.",
+            "popularity": 525.935,
+            "poster_path": "/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
+            "release_date": "2023-09-22",
+            "title": "Pequenos Espiões: Apocalipse",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28
+            ],
+            "id": 614930,
+            "original_language": "en",
+            "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            "overview": "Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para ganhar os corações dos nova yorkinos e serem aceitos como adolescentes normais através de seus atos heroicos. Sua nova amiga, April O’Neil, vai ajudá-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus lençóis quando um exército de mutantes vai atrás deles.",
+            "popularity": 400.156,
+            "poster_path": "/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg",
+            "release_date": "2023-07-31",
+            "title": "As Tartarugas Ninjas: Caos Mutante",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 640
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                35
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+            "popularity": 372.013,
+            "poster_path": "/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
+            "release_date": "2023-04-05",
+            "title": "Super Mario Bros.: O Filme",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 6730
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1HzL603WOer58xtnrRYdSIL5K04.jpg",
+            "genre_ids": [
+                35,
+                12
+            ],
+            "id": 912908,
+            "original_language": "en",
+            "original_title": "Strays",
+            "overview": "Quando Reggie, um Border Terrier ingênuo e implacavelmente otimista, é abandonado nas ruas da cidade por seu dono, Doug, Reggie tem certeza de que seu amado dono nunca o deixaria de propósito.",
+            "popularity": 325.247,
+            "poster_path": "/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg",
+            "release_date": "2023-08-17",
+            "title": "Ruim pra Cachorro",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 884605,
+            "original_language": "en",
+            "original_title": "No Hard Feelings",
+            "overview": "Uma jovem falida é contratada para namorar um adolescente introvertido e socialmente desajeitado, que está se preparando para a faculdade.",
+            "popularity": 277.708,
+            "poster_path": "/Ab2IX5DuY1ZAyFNGXh1MeUOzIGB.jpg",
+            "release_date": "2023-06-15",
+            "title": "Que Horas Eu Te Pego?",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1377
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ql86xMw1rvuqr85PjALSnT0mit.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1175306,
+            "original_language": "es",
+            "original_title": "Me Vuelves Loca",
+            "overview": "",
+            "popularity": 234.193,
+            "poster_path": "/9E7LA3LgadTzvvlxMNY4sJIb7ck.jpg",
+            "release_date": "2023-09-07",
+            "title": "Me Vuelves Loca",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hkx6p7bTw2dOs4nSk6ZGTnEjCjW.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 37265,
+            "original_language": "it",
+            "original_title": "Così fan tutte",
+            "overview": "Diana (Claudia Koll) é casada com Paolo (Paolo Lanza), mas esta relação parece ser insuficiente para satisfazer o seu apetite sexual e os seus desejos de transgressão. Começa com o dono de uma boutique (Renzo Rinaldi); segue-se um primo veneziano e um extravagante francês, Donatien Alphonse (Franco Branciaroli), que usa o nome em memória do Marquês de Sade. Diana conta estas suas relações ao marido, disfarçando-as de fantasias sexuais, mas um dia ele descobre a verdade.",
+            "popularity": 232.565,
+            "poster_path": "/w4ocNo0oqiIWbaMEuxyynJODZXt.jpg",
+            "release_date": "1992-02-21",
+            "title": "Todas as Mulheres Fazem",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12,
+                35,
+                28
+            ],
+            "id": 315162,
+            "original_language": "en",
+            "original_title": "Puss in Boots: The Last Wish",
+            "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+            "popularity": 218.165,
+            "poster_path": "/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
+            "release_date": "2022-12-07",
+            "title": "Gato de Botas 2: O Último Pedido",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 6391
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35
+            ],
+            "id": 1040148,
+            "original_language": "en",
+            "original_title": "Ruby Gillman, Teenage Kraken",
+            "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+            "popularity": 211.575,
+            "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+            "release_date": "2023-06-28",
+            "title": "Ruby Marinho - Monstro Adolescente",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 668
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "genre_ids": [
+                16,
+                10402,
+                10751,
+                28,
+                10749,
+                14,
+                35
+            ],
+            "id": 496450,
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "Marinette Dupain-Cheng, de dezesseis anos, está temendo o primeiro dia de aula, onde ela sofre bullying, não tem amigos e não se encaixa, mas seu mundo vira de cabeça para baixo quando ela é escolhida para se tornar a super-heroína Ladybug e ela conhece seu parceiro Cat Noir.",
+            "popularity": 204.347,
+            "poster_path": "/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
+            "release_date": "2023-07-05",
+            "title": "Miraculous: As Aventuras de Ladybug - O Filme",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 593
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6IafiYxaqR2MxCnEC29bi6637eo.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                35
+            ],
+            "id": 457332,
+            "original_language": "en",
+            "original_title": "Hidden Strike",
+            "overview": "Quando uma refinaria de petróleo administrada pela China é atacada em Mosul, no Iraque, um empreiteiro de segurança privada chinês é chamado para resgatar os trabalhadores do petróleo.  Ele descobre, no entanto, que o verdadeiro plano dos atacantes é roubar uma fortuna em petróleo e se une a um ex-fuzileiro naval americano para detê-los.",
+            "popularity": 184.849,
+            "poster_path": "/t3vZkkM5G40pUJxUzkz69H777Hm.jpg",
+            "release_date": "2023-07-06",
+            "title": "Projeto Extração",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 749
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                14,
+                10402,
+                35,
+                12
+            ],
+            "id": 354912,
+            "original_language": "en",
+            "original_title": "Coco",
+            "overview": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.",
+            "popularity": 178.131,
+            "poster_path": "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+            "release_date": "2017-10-27",
+            "title": "Viva: A Vida é uma Festa",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 17736
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vcQQx1z5iUbqZ3uJXvfCCMN3HPb.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 869855,
+            "original_language": "nl",
+            "original_title": "H4Z4RD",
+            "overview": "",
+            "popularity": 168.039,
+            "poster_path": "/gUjmpgsG7fxPWejTmPMDLxFT7Yr.jpg",
+            "release_date": "2022-07-20",
+            "title": "H4Z4RD",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "id": 675445,
+            "original_language": "en",
+            "original_title": "PAW Patrol: The Movie",
+            "overview": "O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
+            "popularity": 167.685,
+            "poster_path": "/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
+            "release_date": "2021-08-09",
+            "title": "Patrulha Canina: O Filme",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fwXeTKmJvlv7kbH8QDmbykGfMeK.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                28,
+                878
+            ],
+            "id": 893723,
+            "original_language": "en",
+            "original_title": "PAW Patrol: The Mighty Movie",
+            "overview": "Um meteoro mágico cai em Adventure City, dá superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da prisão e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervilões antes que seja tarde demais.",
+            "popularity": 159.484,
+            "poster_path": "/pGLMWNdVsXnaTaa8sYGqbYBk8Zz.jpg",
+            "release_date": "2023-09-21",
+            "title": "Patrulha Canina: O Filme Superpoderoso",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "Uma garota chamada Mirabel Madrigal cresce como o único membro não mágico de sua família, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.",
+            "popularity": 156.985,
+            "poster_path": "/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
+            "release_date": "2021-10-13",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 8607
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+            "genre_ids": [
+                12,
+                14,
+                35
+            ],
+            "id": 493529,
+            "original_language": "en",
+            "original_title": "Dungeons & Dragons: Honor Among Thieves",
+            "overview": "Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.",
+            "popularity": 143.861,
+            "poster_path": "/itUFRyAMZNqSKL5zsPPVLdggGek.jpg",
+            "release_date": "2023-03-23",
+            "title": "Dungeons & Dragons: Honra Entre Rebeldes",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z71mEYV0JRHOi1XfBU1F1hmCSvV.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 1001811,
+            "original_language": "en",
+            "original_title": "My Big Fat Greek Wedding 3",
+            "overview": "Os membros da família Portokalos se reúnem na Grécia para uma viagem hilária e emocionante, cheia de amor e reviravoltas.",
+            "popularity": 143.765,
+            "poster_path": "/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg",
+            "release_date": "2023-09-07",
+            "title": "Casamento Grego 3",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 24
+        }
+    ],
+    "total_pages": 6051,
+    "total_results": 121013
+}
