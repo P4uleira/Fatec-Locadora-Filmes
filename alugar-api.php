@@ -1,7 +1,6 @@
 <?php
 include 'request-api.php';
 function alugarfilme($id, $cat) {
-    $file;
     switch ($cat) {
         case '28':
           requestApi('action');
@@ -70,34 +69,34 @@ function adicionarPreco($caminho, $genero)
   $preco = 0;
 
   switch ($genero) {
-    case "action":
+    case "28":
 
       $preco = '0.30';
       break;
-    case 'fiction':
+    case '878':
       $preco = '0.40';
       break;
-    case 'animation':
+    case '16':
 
       $preco = '0.35';
 
       break;
-    case 'comedy':
+    case '35':
 
       $preco = '0.35';
 
       break;
-    case 'drama':
+    case '18':
 
       $preco = '0.20';
 
       break;
-    case 'family':
+    case '10751':
 
       $preco = '0.50';
 
       break;
-    case 'horror':
+    case '27':
 
       $preco = '0.45';
 

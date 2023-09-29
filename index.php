@@ -92,8 +92,6 @@
             $cat = 'tendency';
             listaFilmes($cat);
         }
-
-
         ?>
 
     </main>
