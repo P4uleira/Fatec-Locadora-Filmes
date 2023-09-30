@@ -81,7 +81,7 @@
             if (isset($_GET['id'])) {
                 $id = $_GET['id'];
                 $cat = $_GET['cat'];
-                alugarfilme($id, $cat);
+                $preco = alugarfilme($id, $cat);
             }
 
             ?>
@@ -92,24 +92,35 @@
                 <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF" name="CPF">
             </div>
             <div class="form-group">
-                <label for="exampleFormControlSelect1">Alugar por quantos dias?</label>
-                <select class="form-control" id="exampleFormControlSelect1">
-                    <option>1 Dia</option>
-                    <option>2 Dias</option>
-                    <option>3 Dias</option>
-                    <option>4 Dias</option>
-                    <option>5 Dias</option>
+                <label for="diasAlugar">Alugar por quantos dias?</label>
+                <select class="form-control" id="diasAlugar" onchange="alteraValor()">
+                    <option value="1">1 Dia</option>
+                    <option value="2">2 Dias</option>
+                    <option value="3">3 Dias</option>
+                    <option value="4">4 Dias</option>
+                    <option value="5">5 Dias</option>
                 </select>
             </div>
             <div class="form-group">
-                <label for="inputCPF">Valor do Filme</label>
+                <label for="inputValor">Valor do Aluguel</label>
                 <?php
-                echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"R$\">";
+                    echo "<input type=\"text\" disabled class=\"d-none\" id=\"inputValorHide\" value=\"".$preco."\"> ";                    
+                    echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputValor\" value=\"R$ " .$preco."\"> ";
                 ?>
             </div>
-            <button type="submit" class="btn btn-primary">Alugar</button>
+            <button style="margin-botton: 2rem;" type="submit" class="btn btn-primary">Alugar</button>
         </form>
     </main>
+
+    <script>
+        function alteraValor() {
+            var dias = document.getElementById("diasAlugar").value;
+            dias = parseInt(dias);
+            var valor = document.getElementById("inputValorHide").value;
+            valor = parseFloat(valor);            
+            document.getElementById("inputValor").value = "R$ " + (valor * dias).toFixed(2);
+        }
+    </script>
 </body>
 
 </html>
