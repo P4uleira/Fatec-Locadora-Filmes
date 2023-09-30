@@ -41,6 +41,13 @@
     gap: 0.75rem;
 }
 
+.box-informacoes-alugar {
+    display: flex !important;
+    flex-flow: column !important;
+    align-items: center !important;
+    gap: 5.5px !important;
+}
+
 
 
 @media screen and (min-width: 769px) and (max-width: 1280px) {
@@ -64,6 +71,13 @@
     .box-informacoes {
         align-self: flex-start;
         max-width: 200px;
+    }
+
+    .box-informacoes-alugar {
+        display: flex !important;
+        flex-flow: column !important;
+        align-items: center !important;
+        gap: 5.5px !important;
     }
 }
 
