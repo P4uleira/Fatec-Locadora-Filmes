@@ -74,7 +74,7 @@
     </header>
     <main class="main">
         <section class="chamada">
-            <p>Bem vindo a sua melhor locadora de filmes!</p>
+            <p>Aqui você encontra os filmes mais poggers do momento, Aproveite!!!</p>
         </section>
 
         <?php
