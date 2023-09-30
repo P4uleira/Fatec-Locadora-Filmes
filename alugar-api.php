@@ -2,40 +2,9 @@
 include 'request-api.php';
 function alugarfilme($id, $cat)
 {
-  switch ($cat) {
-    case '28':
-      requestApi('action');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\28.json';
-      break;
-    case '878':
-      requestApi('fiction');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\878.json';
-      break;
-    case '16':
-      requestApi('animation');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\16.json';
-      break;
-    case '35':
-      requestApi('comedy');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\35.json';
-      break;
-    case '18':
-      requestApi('drama');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\18.json';
-      break;
-    case '10751':
-      requestApi('family');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\10751.json';
-      break;
-    case '27':
-      requestApi('horror');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\27.json';
-      break;
-    default:
-      requestApi('tendency');
-      $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\tendecy.json';
-      break;
-  }
+  requestApi($cat);
+  $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\'.$cat.'.json';
+    
   $conteudoJson = file_get_contents($file);
   $filmes = json_decode($conteudoJson);
 
