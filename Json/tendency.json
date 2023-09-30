@@ -3,7 +3,7 @@
     "results": [
         {
             "adult": false,
-            "backdrop_path": "/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
+            "backdrop_path": "\/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
             "genre_ids": [
                 28,
                 878,
@@ -12,18 +12,19 @@
             "id": 565770,
             "original_language": "en",
             "original_title": "Blue Beetle",
-            "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+            "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alien\u00edgena que lhe d\u00e1 um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
             "popularity": 2972.534,
-            "poster_path": "/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg",
+            "poster_path": "\/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg",
             "release_date": "2023-08-16",
             "title": "Besouro Azul",
             "video": false,
             "vote_average": 7.2,
-            "vote_count": 956
+            "vote_count": 956,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+            "backdrop_path": "\/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
             "genre_ids": [
                 28,
                 9648,
@@ -33,18 +34,19 @@
             "id": 762430,
             "original_language": "en",
             "original_title": "Retribution",
-            "overview": "Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  família.",
+            "overview": "Com seus filhos presos no banco de tr\u00e1s e uma bomba que explodir\u00e1 se eles sa\u00edrem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instru\u00e7\u00f5es cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  fam\u00edlia.",
             "popularity": 1484.504,
-            "poster_path": "/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg",
+            "poster_path": "\/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg",
             "release_date": "2023-08-23",
             "title": "A Chamada",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 236
+            "vote_count": 236,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "backdrop_path": "\/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
             "genre_ids": [
                 28,
                 878,
@@ -53,18 +55,19 @@
             "id": 615656,
             "original_language": "en",
             "original_title": "Meg 2: The Trench",
-            "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+            "overview": "Um mergulho explorat\u00f3rio nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma opera\u00e7\u00e3o de minera\u00e7\u00e3o mal\u00e9vola amea\u00e7a sua miss\u00e3o e os for\u00e7a a uma batalha de alto risco pela sobreviv\u00eancia.",
             "popularity": 1322.828,
-            "poster_path": "/klGKGITBYYyTiHrph1VDSgGULOR.jpg",
+            "poster_path": "\/klGKGITBYYyTiHrph1VDSgGULOR.jpg",
             "release_date": "2023-08-02",
-            "title": "Megatubarão 2",
+            "title": "Megatubar\u00e3o 2",
             "video": false,
             "vote_average": 7,
-            "vote_count": 1973
+            "vote_count": 1973,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "backdrop_path": "\/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
             "genre_ids": [
                 28,
                 80,
@@ -73,18 +76,19 @@
             "id": 385687,
             "original_language": "en",
             "original_title": "Fast X",
-            "overview": "O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.",
+            "overview": "O fim da estrada est\u00e1 chegando. Velozes & Furiosos 10, \u00e9 o d\u00e9cimo filme da franquia Velozes & Furiosos, lan\u00e7a os cap\u00edtulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira d\u00e9cada e ainda mais forte. Com o mesmo elenco e personagens principais de quando come\u00e7ou. Ao longo de muitas miss\u00f5es e lutando contra todos os obst\u00e1culos imposs\u00edveis, Dom Toretto (Vin Diesel) e sua fam\u00edlia foram mais espertos, mais furiosos e mais r\u00e1pidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma amea\u00e7a terr\u00edvel das sombras do passado, alimentada por sede de vingan\u00e7a e determinada a destruir esta fam\u00edlia.",
             "popularity": 1183.157,
-            "poster_path": "/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+            "poster_path": "\/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
             "release_date": "2023-05-17",
             "title": "Velozes & Furiosos 10",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 3867
+            "vote_count": 3867,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg",
+            "backdrop_path": "\/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg",
             "genre_ids": [
                 27,
                 53
@@ -92,18 +96,19 @@
             "id": 1008042,
             "original_language": "en",
             "original_title": "Talk to Me",
-            "overview": "Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.",
+            "overview": "Quando um grupo de amigos descobre como conjurar esp\u00edritos usando uma antiga m\u00e3o embalsamada, eles ficam viciados na nova emo\u00e7\u00e3o. At\u00e9 que um deles vai longe demais e abre a porta para o mundo espiritual.",
             "popularity": 1107.778,
-            "poster_path": "/n2HcaD1dEVrwXlSFJD7GmcqHSxv.jpg",
+            "poster_path": "\/n2HcaD1dEVrwXlSFJD7GmcqHSxv.jpg",
             "release_date": "2023-07-26",
             "title": "Fale Comigo",
             "video": false,
             "vote_average": 7.2,
-            "vote_count": 899
+            "vote_count": 899,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/53z2fXEKfnNg2uSOPss2unPBGX1.jpg",
+            "backdrop_path": "\/53z2fXEKfnNg2uSOPss2unPBGX1.jpg",
             "genre_ids": [
                 27,
                 9648,
@@ -112,18 +117,19 @@
             "id": 968051,
             "original_language": "en",
             "original_title": "The Nun II",
-            "overview": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).",
+            "overview": "Quatro anos ap\u00f3s os acontecimentos na abadia de St. Carta, a Irm\u00e3 Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a for\u00e7a demon\u00edaca de Valak, a Freira (Bonnie Aarons).",
             "popularity": 1092.159,
-            "poster_path": "/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
+            "poster_path": "\/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
             "release_date": "2023-09-06",
             "title": "A Freira 2",
             "video": false,
             "vote_average": 6.5,
-            "vote_count": 339
+            "vote_count": 339,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "backdrop_path": "\/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
             "genre_ids": [
                 35,
                 12,
@@ -132,18 +138,19 @@
             "id": 346698,
             "original_language": "en",
             "original_title": "Barbie",
-            "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
+            "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
             "popularity": 1062.817,
-            "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+            "poster_path": "\/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
             "release_date": "2023-07-19",
             "title": "Barbie",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 5045
+            "vote_count": 5045,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
+            "backdrop_path": "\/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
             "genre_ids": [
                 28,
                 18,
@@ -152,18 +159,19 @@
             "id": 980489,
             "original_language": "en",
             "original_title": "Gran Turismo",
-            "overview": "Baseado na história de Jann Mardenborough, e relata a trajetória de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.",
+            "overview": "Baseado na hist\u00f3ria de Jann Mardenborough, e relata a trajet\u00f3ria de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.",
             "popularity": 976.892,
-            "poster_path": "/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg",
+            "poster_path": "\/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg",
             "release_date": "2023-08-09",
-            "title": "Gran Turismo – De Jogador a Corredor",
+            "title": "Gran Turismo \u2013 De Jogador a Corredor",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 473
+            "vote_count": 473,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg",
+            "backdrop_path": "\/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg",
             "genre_ids": [
                 27,
                 878,
@@ -172,36 +180,38 @@
             "id": 820609,
             "original_language": "en",
             "original_title": "No One Will Save You",
-            "overview": "Brynn é uma jovem talentosa que vive isolada pela sua comunidade. Solitária, mas cheia de esperança, ela se refugia na casa onde cresceu, até o dia em que é despertada por barulhos estranhos que só podem ser oriundos de invasores alienígenas. O que se desenrola a partir daí é um duelo incessante entre Brynn e os seres extraterrestres que ameaçam seu futuro enquanto a obrigam a encarar seu passado.",
+            "overview": "Brynn \u00e9 uma jovem talentosa que vive isolada pela sua comunidade. Solit\u00e1ria, mas cheia de esperan\u00e7a, ela se refugia na casa onde cresceu, at\u00e9 o dia em que \u00e9 despertada por barulhos estranhos que s\u00f3 podem ser oriundos de invasores alien\u00edgenas. O que se desenrola a partir da\u00ed \u00e9 um duelo incessante entre Brynn e os seres extraterrestres que amea\u00e7am seu futuro enquanto a obrigam a encarar seu passado.",
             "popularity": 930.332,
-            "poster_path": "/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg",
+            "poster_path": "\/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg",
             "release_date": "2023-09-22",
-            "title": "Ninguém Vai te Salvar",
+            "title": "Ningu\u00e9m Vai te Salvar",
             "video": false,
             "vote_average": 7,
-            "vote_count": 276
+            "vote_count": 276,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/oghHR3X0hIcvs7xqyoFjA0GAZWn.jpg",
+            "backdrop_path": "\/oghHR3X0hIcvs7xqyoFjA0GAZWn.jpg",
             "genre_ids": [
                 53
             ],
             "id": 1002338,
             "original_language": "is",
-            "original_title": "Napóleonsskjölin",
+            "original_title": "Nap\u00f3leonsskj\u00f6lin",
             "overview": "",
             "popularity": 749.07,
-            "poster_path": "/8Ceucf7RZqXEJP6I9Jv3NMey1jK.jpg",
+            "poster_path": "\/8Ceucf7RZqXEJP6I9Jv3NMey1jK.jpg",
             "release_date": "2023-01-26",
-            "title": "Napóleonsskjölin",
+            "title": "Nap\u00f3leonsskj\u00f6lin",
             "video": false,
             "vote_average": 7.2,
-            "vote_count": 20
+            "vote_count": 20,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/uAAAzo9efEZJJPtj4iNwFvrRaki.jpg",
+            "backdrop_path": "\/uAAAzo9efEZJJPtj4iNwFvrRaki.jpg",
             "genre_ids": [
                 28,
                 80,
@@ -213,16 +223,17 @@
             "original_title": "Mondocane",
             "overview": "",
             "popularity": 732.407,
-            "poster_path": "/iIk9Q09V2hOyRJBPwE3VpN5FEnx.jpg",
+            "poster_path": "\/iIk9Q09V2hOyRJBPwE3VpN5FEnx.jpg",
             "release_date": "2021-09-03",
             "title": "Mondocane",
             "video": false,
             "vote_average": 6.4,
-            "vote_count": 113
+            "vote_count": 113,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+            "backdrop_path": "\/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
             "genre_ids": [
                 28,
                 53
@@ -230,18 +241,19 @@
             "id": 717930,
             "original_language": "en",
             "original_title": "Kandahar",
-            "overview": "Um agente disfarçado da CIA chamado Tom Harris, que está designado para o Oriente Médio. Um vazamento de inteligência expõe perigosamente sua missão secreta e revela sua identidade secreta. Preso no coração de um território hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extração em Kandahar, no Afeganistão, enquanto escapam das forças especiais de elite que os caçam.",
+            "overview": "Um agente disfar\u00e7ado da CIA chamado Tom Harris, que est\u00e1 designado para o Oriente M\u00e9dio. Um vazamento de intelig\u00eancia exp\u00f5e perigosamente sua miss\u00e3o secreta e revela sua identidade secreta. Preso no cora\u00e7\u00e3o de um territ\u00f3rio hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extra\u00e7\u00e3o em Kandahar, no Afeganist\u00e3o, enquanto escapam das for\u00e7as especiais de elite que os ca\u00e7am.",
             "popularity": 722.895,
-            "poster_path": "/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
+            "poster_path": "\/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
             "release_date": "2023-05-25",
-            "title": "Missão de Sobrevivência",
+            "title": "Miss\u00e3o de Sobreviv\u00eancia",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 565
+            "vote_count": 565,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/5xUJBgds96m6Xi2EtUpSzbw24D7.jpg",
+            "backdrop_path": "\/5xUJBgds96m6Xi2EtUpSzbw24D7.jpg",
             "genre_ids": [
                 53,
                 9648
@@ -251,16 +263,17 @@
             "original_title": "Seule : Les dossiers Silvercloud",
             "overview": "",
             "popularity": 699.61,
-            "poster_path": "/10jnexUGgWFrwXTwmX73EVO9UpZ.jpg",
+            "poster_path": "\/10jnexUGgWFrwXTwmX73EVO9UpZ.jpg",
             "release_date": "2023-03-08",
             "title": "Seule : Les dossiers Silvercloud",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 47
+            "vote_count": 47,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "backdrop_path": "\/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -271,18 +284,19 @@
             "id": 976573,
             "original_language": "en",
             "original_title": "Elemental",
-            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "overview": "Em uma cidade onde moradores do fogo, da \u00e1gua, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo est\u00e3o prestes a descobrir algo elementar: o quanto realmente t\u00eam em comum.",
             "popularity": 677.12,
-            "poster_path": "/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
+            "poster_path": "\/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
             "release_date": "2023-06-14",
             "title": "Elementos",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 2403
+            "vote_count": 2403,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
+            "backdrop_path": "\/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -291,18 +305,19 @@
             "id": 1076364,
             "original_language": "en",
             "original_title": "Carl's Date",
-            "overview": "Carl Fredricksen relutantemente concorda em ir a um encontro com senhora amiga—mas reconhecidamente não tem ideia de como o namoro funciona hoje em dia. Sempre um amigo prestativo, Dug intervém para calmo o nervosismo pré-encontro de Carl e oferecer algumas dicas testadas e comprovadas para fazer amigos—se você for um cachorro.",
+            "overview": "Carl Fredricksen relutantemente concorda em ir a um encontro com senhora amiga\u2014mas reconhecidamente n\u00e3o tem ideia de como o namoro funciona hoje em dia. Sempre um amigo prestativo, Dug interv\u00e9m para calmo o nervosismo pr\u00e9-encontro de Carl e oferecer algumas dicas testadas e comprovadas para fazer amigos\u2014se voc\u00ea for um cachorro.",
             "popularity": 648.421,
-            "poster_path": "/81Uq4CEUPRpbLrSPOREpQJFdFFr.jpg",
+            "poster_path": "\/81Uq4CEUPRpbLrSPOREpQJFdFFr.jpg",
             "release_date": "2023-06-15",
             "title": "O Encontro de Carl",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 184
+            "vote_count": 184,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+            "backdrop_path": "\/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
             "genre_ids": [
                 12,
                 28
@@ -310,18 +325,19 @@
             "id": 335977,
             "original_language": "en",
             "original_title": "Indiana Jones and the Dial of Destiny",
-            "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.",
+            "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece t\u00ea-lo superado. Mas quando os tent\u00e1culos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chap\u00e9u e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato n\u00e3o caia nas m\u00e3os erradas.",
             "popularity": 607.636,
-            "poster_path": "/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg",
+            "poster_path": "\/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg",
             "release_date": "2023-06-28",
-            "title": "Indiana Jones e A Relíquia do Destino",
+            "title": "Indiana Jones e A Rel\u00edquia do Destino",
             "video": false,
             "vote_average": 6.7,
-            "vote_count": 1742
+            "vote_count": 1742,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
+            "backdrop_path": "\/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
             "genre_ids": [
                 28,
                 18
@@ -329,18 +345,19 @@
             "id": 678512,
             "original_language": "en",
             "original_title": "Sound of Freedom",
-            "overview": "A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.",
+            "overview": "A hist\u00f3ria de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crian\u00e7as de traficantes sexuais globais.",
             "popularity": 566.855,
-            "poster_path": "/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg",
+            "poster_path": "\/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg",
             "release_date": "2023-07-03",
             "title": "Som da Liberdade",
             "video": false,
             "vote_average": 8,
-            "vote_count": 494
+            "vote_count": 494,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "backdrop_path": "\/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -349,18 +366,19 @@
             "id": 667538,
             "original_language": "en",
             "original_title": "Transformers: Rise of the Beasts",
-            "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
+            "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio at\u00e9 agora. Quando uma nova amea\u00e7a capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa fac\u00e7\u00e3o conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) far\u00e3o o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
             "popularity": 547.076,
-            "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "poster_path": "\/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
             "release_date": "2023-06-06",
             "title": "Transformers: O Despertar das Feras",
             "video": false,
             "vote_average": 7.5,
-            "vote_count": 3262
+            "vote_count": 3262,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+            "backdrop_path": "\/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
             "genre_ids": [
                 10751,
                 35,
@@ -370,18 +388,19 @@
             "id": 790493,
             "original_language": "en",
             "original_title": "Spy Kids: Armageddon",
-            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um vírus de computador que lhe dá o controle de toda a tecnologia, eles próprios devem se tornar espiões para salvar seus pais e o mundo.",
+            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um v\u00edrus de computador que lhe d\u00e1 o controle de toda a tecnologia, eles pr\u00f3prios devem se tornar espi\u00f5es para salvar seus pais e o mundo.",
             "popularity": 525.935,
-            "poster_path": "/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
+            "poster_path": "\/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
             "release_date": "2023-09-22",
-            "title": "Pequenos Espiões: Apocalipse",
+            "title": "Pequenos Espi\u00f5es: Apocalipse",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 39
+            "vote_count": 39,
+            "preco": 0.25
         },
         {
             "adult": false,
-            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "backdrop_path": "\/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -390,16 +409,17 @@
             "id": 298618,
             "original_language": "en",
             "original_title": "The Flash",
-            "overview": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua família altera inadvertidamente o futuro.",
+            "overview": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua fam\u00edlia altera inadvertidamente o futuro.",
             "popularity": 486.095,
-            "poster_path": "/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg",
+            "poster_path": "\/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg",
             "release_date": "2023-06-13",
             "title": "The Flash",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 2950
+            "vote_count": 2950,
+            "preco": 0.25
         }
     ],
-    "total_pages": 40282,
-    "total_results": 805640
+    "total_pages": 40284,
+    "total_results": 805679
 }

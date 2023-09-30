@@ -3,7 +3,7 @@
     "results": [
         {
             "adult": false,
-            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "backdrop_path": "\/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -14,18 +14,19 @@
             "id": 976573,
             "original_language": "en",
             "original_title": "Elemental",
-            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "overview": "Em uma cidade onde moradores do fogo, da \u00e1gua, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo est\u00e3o prestes a descobrir algo elementar: o quanto realmente t\u00eam em comum.",
             "popularity": 677.12,
-            "poster_path": "/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
+            "poster_path": "\/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
             "release_date": "2023-06-14",
             "title": "Elementos",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 2403
+            "vote_count": 2403,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
+            "backdrop_path": "\/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -34,18 +35,19 @@
             "id": 1076364,
             "original_language": "en",
             "original_title": "Carl's Date",
-            "overview": "Carl Fredricksen relutantemente concorda em ir a um encontro com senhora amiga—mas reconhecidamente não tem ideia de como o namoro funciona hoje em dia. Sempre um amigo prestativo, Dug intervém para calmo o nervosismo pré-encontro de Carl e oferecer algumas dicas testadas e comprovadas para fazer amigos—se você for um cachorro.",
+            "overview": "Carl Fredricksen relutantemente concorda em ir a um encontro com senhora amiga\u2014mas reconhecidamente n\u00e3o tem ideia de como o namoro funciona hoje em dia. Sempre um amigo prestativo, Dug interv\u00e9m para calmo o nervosismo pr\u00e9-encontro de Carl e oferecer algumas dicas testadas e comprovadas para fazer amigos\u2014se voc\u00ea for um cachorro.",
             "popularity": 648.421,
-            "poster_path": "/81Uq4CEUPRpbLrSPOREpQJFdFFr.jpg",
+            "poster_path": "\/81Uq4CEUPRpbLrSPOREpQJFdFFr.jpg",
             "release_date": "2023-06-15",
             "title": "O Encontro de Carl",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 184
+            "vote_count": 184,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+            "backdrop_path": "\/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
             "genre_ids": [
                 16,
                 28,
@@ -54,18 +56,19 @@
             "id": 569094,
             "original_language": "en",
             "original_title": "Spider-Man: Across the Spider-Verse",
-            "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+            "overview": "Miles Morales retorna para o pr\u00f3ximo cap\u00edtulo da saga do Aranhaverso, uma aventura \u00e9pica que transportar\u00e1 o Homem-Aranha em tempo integral e amig\u00e1vel do bairro do Brooklyn atrav\u00e9s do Multiverso para unir for\u00e7as com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vil\u00e3o mais poderoso do que qualquer coisa que eles j\u00e1 encontraram.",
             "popularity": 466.844,
-            "poster_path": "/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+            "poster_path": "\/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
             "release_date": "2023-05-31",
-            "title": "Homem-Aranha: Através do Aranhaverso",
+            "title": "Homem-Aranha: Atrav\u00e9s do Aranhaverso",
             "video": false,
             "vote_average": 8.4,
-            "vote_count": 4372
+            "vote_count": 4372,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
+            "backdrop_path": "\/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -74,18 +77,19 @@
             "id": 614930,
             "original_language": "en",
             "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-            "overview": "Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para ganhar os corações dos nova yorkinos e serem aceitos como adolescentes normais através de seus atos heroicos. Sua nova amiga, April O’Neil, vai ajudá-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus lençóis quando um exército de mutantes vai atrás deles.",
+            "overview": "Depois de anos sendo protegidos do mundo humano, os irm\u00e3os tartarugas saem para ganhar os cora\u00e7\u00f5es dos nova yorkinos e serem aceitos como adolescentes normais atrav\u00e9s de seus atos heroicos. Sua nova amiga, April O\u2019Neil, vai ajud\u00e1-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus len\u00e7\u00f3is quando um ex\u00e9rcito de mutantes vai atr\u00e1s deles.",
             "popularity": 400.156,
-            "poster_path": "/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg",
+            "poster_path": "\/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg",
             "release_date": "2023-07-31",
             "title": "As Tartarugas Ninjas: Caos Mutante",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 640
+            "vote_count": 640,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "backdrop_path": "\/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -96,18 +100,19 @@
             "id": 502356,
             "original_language": "en",
             "original_title": "The Super Mario Bros. Movie",
-            "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+            "overview": "Os irm\u00e3os Mario e Luigi, de ascend\u00eancia italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um servi\u00e7o de repara\u00e7\u00e3o de uma conduta de \u00e1gua, s\u00e3o sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irm\u00e3o, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que ser\u00e3o grandes mais-valias para destruir os planos de Bowser, um verdadeiro vil\u00e3o que tenciona dominar o mundo.",
             "popularity": 372.013,
-            "poster_path": "/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
+            "poster_path": "\/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
             "release_date": "2023-04-05",
             "title": "Super Mario Bros.: O Filme",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 6730
+            "vote_count": 6730,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/A3m5GJu5kzAKK2wkGlzErlCCElT.jpg",
+            "backdrop_path": "\/A3m5GJu5kzAKK2wkGlzErlCCElT.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -117,18 +122,19 @@
             "id": 900667,
             "original_language": "ja",
             "original_title": "ONE PIECE FILM RED",
-            "overview": "Uta — o cantor mais amado do mundo. Sua voz, com a qual ela canta enquanto esconde sua verdadeira identidade, foi descrita como “de outro mundo”. Ela aparecerá em público pela primeira vez em um show ao vivo. À medida que o local se enche de todos os tipos de fãs de Uta – piratas animados, a Marinha assistindo de perto e os Chapéus de Palha liderados por Luffy que simplesmente vieram curtir sua performance sonora – a voz que o mundo inteiro estava esperando está prestes a ressoar.",
+            "overview": "Uta \u2014 o cantor mais amado do mundo. Sua voz, com a qual ela canta enquanto esconde sua verdadeira identidade, foi descrita como \u201cde outro mundo\u201d. Ela aparecer\u00e1 em p\u00fablico pela primeira vez em um show ao vivo. \u00c0 medida que o local se enche de todos os tipos de f\u00e3s de Uta \u2013 piratas animados, a Marinha assistindo de perto e os Chap\u00e9us de Palha liderados por Luffy que simplesmente vieram curtir sua performance sonora \u2013 a voz que o mundo inteiro estava esperando est\u00e1 prestes a ressoar.",
             "popularity": 270.636,
-            "poster_path": "/8ibfhe4P7rhmn3lrPhOZzIJHA2B.jpg",
+            "poster_path": "\/8ibfhe4P7rhmn3lrPhOZzIJHA2B.jpg",
             "release_date": "2022-08-06",
             "title": "One Piece: Red",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 723
+            "vote_count": 723,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/qZOuoBoKCDLSm1EvYz2eBub8Cto.jpg",
+            "backdrop_path": "\/qZOuoBoKCDLSm1EvYz2eBub8Cto.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -137,19 +143,20 @@
             ],
             "id": 939338,
             "original_language": "fr",
-            "original_title": "Pattie et la colère de Poséidon",
+            "original_title": "Pattie et la col\u00e8re de Pos\u00e9idon",
             "overview": "",
             "popularity": 246.134,
-            "poster_path": "/lE9np1BJgMeKfO4mCLVVZnWTItl.jpg",
+            "poster_path": "\/lE9np1BJgMeKfO4mCLVVZnWTItl.jpg",
             "release_date": "2023-01-25",
-            "title": "Pattie et la colère de Poséidon",
+            "title": "Pattie et la col\u00e8re de Pos\u00e9idon",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 34
+            "vote_count": 34,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
+            "backdrop_path": "\/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -161,18 +168,19 @@
             "id": 315162,
             "original_language": "en",
             "original_title": "Puss in Boots: The Last Wish",
-            "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+            "overview": "O Gato de Botas descobre que sua paix\u00e3o pela aventura cobrou seu pre\u00e7o: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada \u00e9pica para encontrar o m\u00edtico \u00daltimo Desejo e restaurar suas nove vidas.",
             "popularity": 218.165,
-            "poster_path": "/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
+            "poster_path": "\/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
             "release_date": "2022-12-07",
-            "title": "Gato de Botas 2: O Último Pedido",
+            "title": "Gato de Botas 2: O \u00daltimo Pedido",
             "video": false,
             "vote_average": 8.3,
-            "vote_count": 6391
+            "vote_count": 6391,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+            "backdrop_path": "\/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -182,18 +190,19 @@
             "id": 1040148,
             "original_language": "en",
             "original_title": "Ruby Gillman, Teenage Kraken",
-            "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+            "overview": "Uma adolescente t\u00edmida descobre que faz parte de uma lend\u00e1ria linhagem real dos m\u00edticos krakens do mar e que seu destino, nas profundezas dos oceanos, \u00e9 maior do que ela jamais sonhou.",
             "popularity": 211.575,
-            "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+            "poster_path": "\/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
             "release_date": "2023-06-28",
             "title": "Ruby Marinho - Monstro Adolescente",
             "video": false,
             "vote_average": 7.5,
-            "vote_count": 668
+            "vote_count": 668,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "backdrop_path": "\/iEFuHjqrE059SmflBva1JzDJutE.jpg",
             "genre_ids": [
                 16,
                 10402,
@@ -206,18 +215,19 @@
             "id": 496450,
             "original_language": "fr",
             "original_title": "Miraculous - le film",
-            "overview": "Marinette Dupain-Cheng, de dezesseis anos, está temendo o primeiro dia de aula, onde ela sofre bullying, não tem amigos e não se encaixa, mas seu mundo vira de cabeça para baixo quando ela é escolhida para se tornar a super-heroína Ladybug e ela conhece seu parceiro Cat Noir.",
+            "overview": "Marinette Dupain-Cheng, de dezesseis anos, est\u00e1 temendo o primeiro dia de aula, onde ela sofre bullying, n\u00e3o tem amigos e n\u00e3o se encaixa, mas seu mundo vira de cabe\u00e7a para baixo quando ela \u00e9 escolhida para se tornar a super-hero\u00edna Ladybug e ela conhece seu parceiro Cat Noir.",
             "popularity": 204.347,
-            "poster_path": "/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
+            "poster_path": "\/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
             "release_date": "2023-07-05",
             "title": "Miraculous: As Aventuras de Ladybug - O Filme",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 593
+            "vote_count": 593,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/5OFUCydVG9cSS5hMk4A6XNt1oH4.jpg",
+            "backdrop_path": "\/5OFUCydVG9cSS5hMk4A6XNt1oH4.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -226,19 +236,20 @@
             ],
             "id": 1064835,
             "original_language": "ja",
-            "original_title": "七つの大罪 怨嗟のエジンバラ 後編",
-            "overview": "Tristan reencontra Lancelot pela primeira vez após um trágico acidente. Agora, ele precisa aprender a controlar seus demônios internos para salvar a vida da mãe.",
+            "original_title": "\u4e03\u3064\u306e\u5927\u7f6a \u6028\u55df\u306e\u30a8\u30b8\u30f3\u30d0\u30e9 \u5f8c\u7de8",
+            "overview": "Tristan reencontra Lancelot pela primeira vez ap\u00f3s um tr\u00e1gico acidente. Agora, ele precisa aprender a controlar seus dem\u00f4nios internos para salvar a vida da m\u00e3e.",
             "popularity": 200.8,
-            "poster_path": "/tCEFjPGeaQJldoDpqDiDBdOH8GA.jpg",
+            "poster_path": "\/tCEFjPGeaQJldoDpqDiDBdOH8GA.jpg",
             "release_date": "2023-08-08",
-            "title": "Os Sete Pecados Capitais: Fúria de Edimburgo – Parte 2",
+            "title": "Os Sete Pecados Capitais: F\u00faria de Edimburgo \u2013 Parte 2",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 98
+            "vote_count": 98,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
+            "backdrop_path": "\/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
             "genre_ids": [
                 16,
                 28,
@@ -246,19 +257,20 @@
             ],
             "id": 1083862,
             "original_language": "ja",
-            "original_title": "バイオハザード：デスアイランド",
-            "overview": "Em San Francisco, Jill Valentine está lidando com um surto de zumbis e um novo T-Virus, Leon Kennedy está no encalço de um cientista DARPA sequestrado e Claire Redfield está investigando um peixe monstruoso que está matando baleias na baía. Acompanhados por Chris Redfield e Rebecca Chambers, eles descobrem que as pistas de seus casos separados convergem para o mesmo local, a Ilha de Alcatraz, onde um novo mal se estabeleceu e aguarda sua chegada.",
+            "original_title": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\uff1a\u30c7\u30b9\u30a2\u30a4\u30e9\u30f3\u30c9",
+            "overview": "Em San Francisco, Jill Valentine est\u00e1 lidando com um surto de zumbis e um novo T-Virus, Leon Kennedy est\u00e1 no encal\u00e7o de um cientista DARPA sequestrado e Claire Redfield est\u00e1 investigando um peixe monstruoso que est\u00e1 matando baleias na ba\u00eda. Acompanhados por Chris Redfield e Rebecca Chambers, eles descobrem que as pistas de seus casos separados convergem para o mesmo local, a Ilha de Alcatraz, onde um novo mal se estabeleceu e aguarda sua chegada.",
             "popularity": 194.945,
-            "poster_path": "/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+            "poster_path": "\/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
             "release_date": "2023-06-22",
             "title": "Resident Evil: A Ilha da Morte",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 691
+            "vote_count": 691,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/vT17lPUglrAzjEqMwjPpIDe49ty.jpg",
+            "backdrop_path": "\/vT17lPUglrAzjEqMwjPpIDe49ty.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -267,19 +279,20 @@
             ],
             "id": 459003,
             "original_language": "uk",
-            "original_title": "Мавка: Лісова пісня",
-            "overview": "Mavka — uma Alma da Floresta e seu Guardião — enfrenta uma escolha impossível entre o amor e seu dever como guardiã do Coração da Floresta, quando se apaixona por um humano — o talentoso jovem músico Lukas.",
+            "original_title": "\u041c\u0430\u0432\u043a\u0430: \u041b\u0456\u0441\u043e\u0432\u0430 \u043f\u0456\u0441\u043d\u044f",
+            "overview": "Mavka \u2014 uma Alma da Floresta e seu Guardi\u00e3o \u2014 enfrenta uma escolha imposs\u00edvel entre o amor e seu dever como guardi\u00e3 do Cora\u00e7\u00e3o da Floresta, quando se apaixona por um humano \u2014 o talentoso jovem m\u00fasico Lukas.",
             "popularity": 190.337,
-            "poster_path": "/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
+            "poster_path": "\/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
             "release_date": "2023-03-02",
             "title": "Mavka: Aventura na Floresta",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 393
+            "vote_count": 393,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/qwp5hqxrOHfCyBP8vLG8vxXvxho.jpg",
+            "backdrop_path": "\/qwp5hqxrOHfCyBP8vLG8vxXvxho.jpg",
             "genre_ids": [
                 16,
                 28,
@@ -288,19 +301,20 @@
             ],
             "id": 1047041,
             "original_language": "ja",
-            "original_title": "名探偵コナン 黒鉄の魚影（サブマリン）",
+            "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9ed2\u9244\u306e\u9b5a\u5f71\uff08\u30b5\u30d6\u30de\u30ea\u30f3\uff09",
             "overview": "",
             "popularity": 178.274,
-            "poster_path": "/gWrZNGfGz68mBrVPn47cBMXPej3.jpg",
+            "poster_path": "\/gWrZNGfGz68mBrVPn47cBMXPej3.jpg",
             "release_date": "2023-04-14",
-            "title": "名探偵コナン 黒鉄の魚影（サブマリン）",
+            "title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9ed2\u9244\u306e\u9b5a\u5f71\uff08\u30b5\u30d6\u30de\u30ea\u30f3\uff09",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 38
+            "vote_count": 38,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+            "backdrop_path": "\/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
             "genre_ids": [
                 10751,
                 16,
@@ -312,18 +326,19 @@
             "id": 354912,
             "original_language": "en",
             "original_title": "Coco",
-            "overview": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.",
+            "overview": "O aspirante a m\u00fasico Miguel, deve lidar com sua fam\u00edlia que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisav\u00f4, um cantor lend\u00e1rio.",
             "popularity": 178.131,
-            "poster_path": "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+            "poster_path": "\/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
             "release_date": "2017-10-27",
-            "title": "Viva: A Vida é uma Festa",
+            "title": "Viva: A Vida \u00e9 uma Festa",
             "video": false,
             "vote_average": 8.2,
-            "vote_count": 17736
+            "vote_count": 17736,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+            "backdrop_path": "\/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -333,18 +348,19 @@
             "id": 675445,
             "original_language": "en",
             "original_title": "PAW Patrol: The Movie",
-            "overview": "O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
+            "overview": "O longa acompanha um grupo de c\u00e3es falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
             "popularity": 167.685,
-            "poster_path": "/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
+            "poster_path": "\/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
             "release_date": "2021-08-09",
             "title": "Patrulha Canina: O Filme",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 1141
+            "vote_count": 1141,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/fwXeTKmJvlv7kbH8QDmbykGfMeK.jpg",
+            "backdrop_path": "\/fwXeTKmJvlv7kbH8QDmbykGfMeK.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -355,18 +371,19 @@
             "id": 893723,
             "original_language": "en",
             "original_title": "PAW Patrol: The Mighty Movie",
-            "overview": "Um meteoro mágico cai em Adventure City, dá superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da prisão e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervilões antes que seja tarde demais.",
+            "overview": "Um meteoro m\u00e1gico cai em Adventure City, d\u00e1 superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da pris\u00e3o e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervil\u00f5es antes que seja tarde demais.",
             "popularity": 159.484,
-            "poster_path": "/pGLMWNdVsXnaTaa8sYGqbYBk8Zz.jpg",
+            "poster_path": "\/pGLMWNdVsXnaTaa8sYGqbYBk8Zz.jpg",
             "release_date": "2023-09-21",
             "title": "Patrulha Canina: O Filme Superpoderoso",
             "video": false,
             "vote_average": 8.3,
-            "vote_count": 7
+            "vote_count": 7,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "backdrop_path": "\/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -376,18 +393,19 @@
             "id": 568124,
             "original_language": "en",
             "original_title": "Encanto",
-            "overview": "Uma garota chamada Mirabel Madrigal cresce como o único membro não mágico de sua família, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.",
+            "overview": "Uma garota chamada Mirabel Madrigal cresce como o \u00fanico membro n\u00e3o m\u00e1gico de sua fam\u00edlia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Col\u00f4mbia.",
             "popularity": 156.985,
-            "poster_path": "/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
+            "poster_path": "\/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
             "release_date": "2021-10-13",
             "title": "Encanto",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 8607
+            "vote_count": 8607,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/8UjwvrxTpsD46cDQklDdU14RQYB.jpg",
+            "backdrop_path": "\/8UjwvrxTpsD46cDQklDdU14RQYB.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -397,35 +415,37 @@
             "id": 1146348,
             "original_language": "en",
             "original_title": "Scooby-Doo! And Krypto, Too!",
-            "overview": "Quando a Liga da Justiça desaparece e os vilões invadem Metrópolis, há apenas uma equipe que pode resolver esse mistério: Scooby-Doo e sua turma!  Mas espere, há um novo cachorro na cidade – Krypto – o Supercão do Superman com Superpoderes.  A Mistérios S/A precisará de toda a ajuda possível quando fantasmas ameaçarem a sede da Liga da Justiça.  E Lex Luthor finalmente se endireitou?  Ou ele está em conluio com o Coringa e a Arlequina?  Os Super-Vilões da DC podem ter entrado em conflito com o Superman antes, mas agora eles estão enfrentando algo novo: uma gangue de garotos intrometidos!",
+            "overview": "Quando a Liga da Justi\u00e7a desaparece e os vil\u00f5es invadem Metr\u00f3polis, h\u00e1 apenas uma equipe que pode resolver esse mist\u00e9rio: Scooby-Doo e sua turma!  Mas espere, h\u00e1 um novo cachorro na cidade \u2013 Krypto \u2013 o Superc\u00e3o do Superman com Superpoderes.  A Mist\u00e9rios S\/A precisar\u00e1 de toda a ajuda poss\u00edvel quando fantasmas amea\u00e7arem a sede da Liga da Justi\u00e7a.  E Lex Luthor finalmente se endireitou?  Ou ele est\u00e1 em conluio com o Coringa e a Arlequina?  Os Super-Vil\u00f5es da DC podem ter entrado em conflito com o Superman antes, mas agora eles est\u00e3o enfrentando algo novo: uma gangue de garotos intrometidos!",
             "popularity": 149.814,
-            "poster_path": "/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",
+            "poster_path": "\/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",
             "release_date": "2023-09-26",
-            "title": "Scooby-Doo e Krypto - O Supercão",
+            "title": "Scooby-Doo e Krypto - O Superc\u00e3o",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 11
+            "vote_count": 11,
+            "preco": 0.35
         },
         {
             "adult": false,
-            "backdrop_path": "/5Jfk2p3iGrChUKkl0cBD5krr2u8.jpg",
+            "backdrop_path": "\/5Jfk2p3iGrChUKkl0cBD5krr2u8.jpg",
             "genre_ids": [
                 16,
                 10749
             ],
             "id": 998731,
             "original_language": "ja",
-            "original_title": "映画 佐々木と宮野ー卒業編ー",
+            "original_title": "\u6620\u753b \u4f50\u3005\u6728\u3068\u5bae\u91ce\u30fc\u5352\u696d\u7de8\u30fc",
             "overview": "A formatura de Sasaki e dos demais do terceiro ano se aproxima, e Miyano fica preocupado com o pouco tempo que lhe resta com seu namorado na mesma escola.",
             "popularity": 145.475,
-            "poster_path": "/iF5AVGetkzRQw8ALgOluK5dCYLz.jpg",
+            "poster_path": "\/iF5AVGetkzRQw8ALgOluK5dCYLz.jpg",
             "release_date": "2023-02-17",
             "title": "Sasaki to Miyano Movie: Sotsugyou-hen",
             "video": false,
             "vote_average": 6.4,
-            "vote_count": 18
+            "vote_count": 18,
+            "preco": 0.35
         }
     ],
     "total_pages": 2383,
-    "total_results": 47641
+    "total_results": 47648
 }

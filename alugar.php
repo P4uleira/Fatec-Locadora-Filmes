@@ -89,7 +89,7 @@
 
             <div class="form-group">
                 <label for="inputCPF">CPF</label>
-                <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF">
+                <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF" name="CPF">
             </div>
             <div class="form-group">
                 <label for="exampleFormControlSelect1">Alugar por quantos dias?</label>

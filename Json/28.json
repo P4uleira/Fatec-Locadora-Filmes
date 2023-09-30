@@ -3,7 +3,7 @@
     "results": [
         {
             "adult": false,
-            "backdrop_path": "/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
+            "backdrop_path": "\/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
             "genre_ids": [
                 28,
                 878,
@@ -12,18 +12,19 @@
             "id": 565770,
             "original_language": "en",
             "original_title": "Blue Beetle",
-            "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+            "overview": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alien\u00edgena que lhe d\u00e1 um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
             "popularity": 2972.534,
-            "poster_path": "/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg",
+            "poster_path": "\/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg",
             "release_date": "2023-08-16",
             "title": "Besouro Azul",
             "video": false,
             "vote_average": 7.2,
-            "vote_count": 956
+            "vote_count": 956,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+            "backdrop_path": "\/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
             "genre_ids": [
                 28,
                 9648,
@@ -33,18 +34,19 @@
             "id": 762430,
             "original_language": "en",
             "original_title": "Retribution",
-            "overview": "Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  família.",
+            "overview": "Com seus filhos presos no banco de tr\u00e1s e uma bomba que explodir\u00e1 se eles sa\u00edrem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instru\u00e7\u00f5es cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  fam\u00edlia.",
             "popularity": 1484.504,
-            "poster_path": "/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg",
+            "poster_path": "\/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg",
             "release_date": "2023-08-23",
             "title": "A Chamada",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 236
+            "vote_count": 236,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "backdrop_path": "\/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
             "genre_ids": [
                 28,
                 878,
@@ -53,18 +55,19 @@
             "id": 615656,
             "original_language": "en",
             "original_title": "Meg 2: The Trench",
-            "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+            "overview": "Um mergulho explorat\u00f3rio nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma opera\u00e7\u00e3o de minera\u00e7\u00e3o mal\u00e9vola amea\u00e7a sua miss\u00e3o e os for\u00e7a a uma batalha de alto risco pela sobreviv\u00eancia.",
             "popularity": 1322.828,
-            "poster_path": "/klGKGITBYYyTiHrph1VDSgGULOR.jpg",
+            "poster_path": "\/klGKGITBYYyTiHrph1VDSgGULOR.jpg",
             "release_date": "2023-08-02",
-            "title": "Megatubarão 2",
+            "title": "Megatubar\u00e3o 2",
             "video": false,
             "vote_average": 7,
-            "vote_count": 1973
+            "vote_count": 1973,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "backdrop_path": "\/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
             "genre_ids": [
                 28,
                 80,
@@ -73,18 +76,19 @@
             "id": 385687,
             "original_language": "en",
             "original_title": "Fast X",
-            "overview": "O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.",
+            "overview": "O fim da estrada est\u00e1 chegando. Velozes & Furiosos 10, \u00e9 o d\u00e9cimo filme da franquia Velozes & Furiosos, lan\u00e7a os cap\u00edtulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira d\u00e9cada e ainda mais forte. Com o mesmo elenco e personagens principais de quando come\u00e7ou. Ao longo de muitas miss\u00f5es e lutando contra todos os obst\u00e1culos imposs\u00edveis, Dom Toretto (Vin Diesel) e sua fam\u00edlia foram mais espertos, mais furiosos e mais r\u00e1pidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma amea\u00e7a terr\u00edvel das sombras do passado, alimentada por sede de vingan\u00e7a e determinada a destruir esta fam\u00edlia.",
             "popularity": 1183.157,
-            "poster_path": "/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+            "poster_path": "\/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
             "release_date": "2023-05-17",
             "title": "Velozes & Furiosos 10",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 3867
+            "vote_count": 3867,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
+            "backdrop_path": "\/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
             "genre_ids": [
                 28,
                 18,
@@ -93,18 +97,19 @@
             "id": 980489,
             "original_language": "en",
             "original_title": "Gran Turismo",
-            "overview": "Baseado na história de Jann Mardenborough, e relata a trajetória de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.",
+            "overview": "Baseado na hist\u00f3ria de Jann Mardenborough, e relata a trajet\u00f3ria de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.",
             "popularity": 976.892,
-            "poster_path": "/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg",
+            "poster_path": "\/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg",
             "release_date": "2023-08-09",
-            "title": "Gran Turismo – De Jogador a Corredor",
+            "title": "Gran Turismo \u2013 De Jogador a Corredor",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 473
+            "vote_count": 473,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/uAAAzo9efEZJJPtj4iNwFvrRaki.jpg",
+            "backdrop_path": "\/uAAAzo9efEZJJPtj4iNwFvrRaki.jpg",
             "genre_ids": [
                 28,
                 80,
@@ -116,16 +121,17 @@
             "original_title": "Mondocane",
             "overview": "",
             "popularity": 732.407,
-            "poster_path": "/iIk9Q09V2hOyRJBPwE3VpN5FEnx.jpg",
+            "poster_path": "\/iIk9Q09V2hOyRJBPwE3VpN5FEnx.jpg",
             "release_date": "2021-09-03",
             "title": "Mondocane",
             "video": false,
             "vote_average": 6.4,
-            "vote_count": 113
+            "vote_count": 113,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+            "backdrop_path": "\/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
             "genre_ids": [
                 28,
                 53
@@ -133,18 +139,19 @@
             "id": 717930,
             "original_language": "en",
             "original_title": "Kandahar",
-            "overview": "Um agente disfarçado da CIA chamado Tom Harris, que está designado para o Oriente Médio. Um vazamento de inteligência expõe perigosamente sua missão secreta e revela sua identidade secreta. Preso no coração de um território hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extração em Kandahar, no Afeganistão, enquanto escapam das forças especiais de elite que os caçam.",
+            "overview": "Um agente disfar\u00e7ado da CIA chamado Tom Harris, que est\u00e1 designado para o Oriente M\u00e9dio. Um vazamento de intelig\u00eancia exp\u00f5e perigosamente sua miss\u00e3o secreta e revela sua identidade secreta. Preso no cora\u00e7\u00e3o de um territ\u00f3rio hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extra\u00e7\u00e3o em Kandahar, no Afeganist\u00e3o, enquanto escapam das for\u00e7as especiais de elite que os ca\u00e7am.",
             "popularity": 722.895,
-            "poster_path": "/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
+            "poster_path": "\/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
             "release_date": "2023-05-25",
-            "title": "Missão de Sobrevivência",
+            "title": "Miss\u00e3o de Sobreviv\u00eancia",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 565
+            "vote_count": 565,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+            "backdrop_path": "\/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
             "genre_ids": [
                 12,
                 28
@@ -152,18 +159,19 @@
             "id": 335977,
             "original_language": "en",
             "original_title": "Indiana Jones and the Dial of Destiny",
-            "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.",
+            "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece t\u00ea-lo superado. Mas quando os tent\u00e1culos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chap\u00e9u e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato n\u00e3o caia nas m\u00e3os erradas.",
             "popularity": 607.636,
-            "poster_path": "/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg",
+            "poster_path": "\/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg",
             "release_date": "2023-06-28",
-            "title": "Indiana Jones e A Relíquia do Destino",
+            "title": "Indiana Jones e A Rel\u00edquia do Destino",
             "video": false,
             "vote_average": 6.7,
-            "vote_count": 1742
+            "vote_count": 1742,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
+            "backdrop_path": "\/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
             "genre_ids": [
                 28,
                 18
@@ -171,18 +179,19 @@
             "id": 678512,
             "original_language": "en",
             "original_title": "Sound of Freedom",
-            "overview": "A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.",
+            "overview": "A hist\u00f3ria de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crian\u00e7as de traficantes sexuais globais.",
             "popularity": 566.855,
-            "poster_path": "/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg",
+            "poster_path": "\/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg",
             "release_date": "2023-07-03",
             "title": "Som da Liberdade",
             "video": false,
             "vote_average": 8,
-            "vote_count": 494
+            "vote_count": 494,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "backdrop_path": "\/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -191,18 +200,19 @@
             "id": 667538,
             "original_language": "en",
             "original_title": "Transformers: Rise of the Beasts",
-            "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
+            "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio at\u00e9 agora. Quando uma nova amea\u00e7a capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa fac\u00e7\u00e3o conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) far\u00e3o o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
             "popularity": 547.076,
-            "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "poster_path": "\/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
             "release_date": "2023-06-06",
             "title": "Transformers: O Despertar das Feras",
             "video": false,
             "vote_average": 7.5,
-            "vote_count": 3262
+            "vote_count": 3262,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+            "backdrop_path": "\/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
             "genre_ids": [
                 10751,
                 35,
@@ -212,18 +222,19 @@
             "id": 790493,
             "original_language": "en",
             "original_title": "Spy Kids: Armageddon",
-            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um vírus de computador que lhe dá o controle de toda a tecnologia, eles próprios devem se tornar espiões para salvar seus pais e o mundo.",
+            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um v\u00edrus de computador que lhe d\u00e1 o controle de toda a tecnologia, eles pr\u00f3prios devem se tornar espi\u00f5es para salvar seus pais e o mundo.",
             "popularity": 525.935,
-            "poster_path": "/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
+            "poster_path": "\/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
             "release_date": "2023-09-22",
-            "title": "Pequenos Espiões: Apocalipse",
+            "title": "Pequenos Espi\u00f5es: Apocalipse",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 39
+            "vote_count": 39,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "backdrop_path": "\/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -232,18 +243,19 @@
             "id": 298618,
             "original_language": "en",
             "original_title": "The Flash",
-            "overview": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua família altera inadvertidamente o futuro.",
+            "overview": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua fam\u00edlia altera inadvertidamente o futuro.",
             "popularity": 486.095,
-            "poster_path": "/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg",
+            "poster_path": "\/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg",
             "release_date": "2023-06-13",
             "title": "The Flash",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 2950
+            "vote_count": 2950,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+            "backdrop_path": "\/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
             "genre_ids": [
                 16,
                 28,
@@ -252,18 +264,19 @@
             "id": 569094,
             "original_language": "en",
             "original_title": "Spider-Man: Across the Spider-Verse",
-            "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+            "overview": "Miles Morales retorna para o pr\u00f3ximo cap\u00edtulo da saga do Aranhaverso, uma aventura \u00e9pica que transportar\u00e1 o Homem-Aranha em tempo integral e amig\u00e1vel do bairro do Brooklyn atrav\u00e9s do Multiverso para unir for\u00e7as com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vil\u00e3o mais poderoso do que qualquer coisa que eles j\u00e1 encontraram.",
             "popularity": 466.844,
-            "poster_path": "/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+            "poster_path": "\/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
             "release_date": "2023-05-31",
-            "title": "Homem-Aranha: Através do Aranhaverso",
+            "title": "Homem-Aranha: Atrav\u00e9s do Aranhaverso",
             "video": false,
             "vote_average": 8.4,
-            "vote_count": 4372
+            "vote_count": 4372,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+            "backdrop_path": "\/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -272,18 +285,19 @@
             "id": 299054,
             "original_language": "en",
             "original_title": "Expend4bles",
-            "overview": "Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.",
+            "overview": "Os Mercen\u00e1rios enfrentam um traficante de armas que comanda o poder de um enorme ex\u00e9rcito privado.",
             "popularity": 460.286,
-            "poster_path": "/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg",
+            "poster_path": "\/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg",
             "release_date": "2023-09-15",
-            "title": "Os Mercenários 4",
+            "title": "Os Mercen\u00e1rios 4",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 79
+            "vote_count": 79,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+            "backdrop_path": "\/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -292,18 +306,19 @@
             "id": 603692,
             "original_language": "en",
             "original_title": "John Wick: Chapter 4",
-            "overview": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+            "overview": "Com o pre\u00e7o por sua cabe\u00e7a cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
             "popularity": 434.148,
-            "poster_path": "/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+            "poster_path": "\/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
             "release_date": "2023-03-22",
             "title": "John Wick 4: Baba Yaga",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 4622
+            "vote_count": 4622,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
+            "backdrop_path": "\/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -312,18 +327,19 @@
             "id": 614930,
             "original_language": "en",
             "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-            "overview": "Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para ganhar os corações dos nova yorkinos e serem aceitos como adolescentes normais através de seus atos heroicos. Sua nova amiga, April O’Neil, vai ajudá-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus lençóis quando um exército de mutantes vai atrás deles.",
+            "overview": "Depois de anos sendo protegidos do mundo humano, os irm\u00e3os tartarugas saem para ganhar os cora\u00e7\u00f5es dos nova yorkinos e serem aceitos como adolescentes normais atrav\u00e9s de seus atos heroicos. Sua nova amiga, April O\u2019Neil, vai ajud\u00e1-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus len\u00e7\u00f3is quando um ex\u00e9rcito de mutantes vai atr\u00e1s deles.",
             "popularity": 400.156,
-            "poster_path": "/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg",
+            "poster_path": "\/n3M5gSOjWYxFakAsGbi6OFFi4LZ.jpg",
             "release_date": "2023-07-31",
             "title": "As Tartarugas Ninjas: Caos Mutante",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 640
+            "vote_count": 640,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+            "backdrop_path": "\/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
             "genre_ids": [
                 878,
                 28,
@@ -332,18 +348,19 @@
             "id": 670292,
             "original_language": "en",
             "original_title": "The Creator",
-            "overview": "Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.",
+            "overview": "Em meio a uma futura guerra entre a ra\u00e7a humana e as for\u00e7as da intelig\u00eancia artificial, Joshua, um endurecido ex-agente das for\u00e7as especiais que lamenta o desaparecimento de sua esposa, \u00e9 recrutado para ca\u00e7ar e matar o Criador, o indescrit\u00edvel arquiteto da IA avan\u00e7ada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a pr\u00f3pria humanidade.",
             "popularity": 371.899,
-            "poster_path": "/187OBBT5oMQ2XPXgx9F8JhlycvK.jpg",
+            "poster_path": "\/187OBBT5oMQ2XPXgx9F8JhlycvK.jpg",
             "release_date": "2023-09-27",
-            "title": "Resistência",
+            "title": "Resist\u00eancia",
             "video": false,
             "vote_average": 7.7,
-            "vote_count": 34
+            "vote_count": 34,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/xsnpgM2Si1hG7daLP1XE7uAfKKH.jpg",
+            "backdrop_path": "\/xsnpgM2Si1hG7daLP1XE7uAfKKH.jpg",
             "genre_ids": [
                 80,
                 28,
@@ -352,18 +369,19 @@
             "id": 1152797,
             "original_language": "pl",
             "original_title": "Freestyle",
-            "overview": "Precisando de grana para pagar o estúdio de gravação, um rapper com um passado criminoso se mete com o tráfico de drogas. Agora, ele pode perder tudo.",
+            "overview": "Precisando de grana para pagar o est\u00fadio de grava\u00e7\u00e3o, um rapper com um passado criminoso se mete com o tr\u00e1fico de drogas. Agora, ele pode perder tudo.",
             "popularity": 364.224,
-            "poster_path": "/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jpg",
+            "poster_path": "\/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jpg",
             "release_date": "2023-09-13",
             "title": "Freestyle",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 34
+            "vote_count": 34,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/4wVFtesa5YEWuAUHRcxoCN1Y1uN.jpg",
+            "backdrop_path": "\/4wVFtesa5YEWuAUHRcxoCN1Y1uN.jpg",
             "genre_ids": [
                 28,
                 53
@@ -373,16 +391,17 @@
             "original_title": "Underverden 2",
             "overview": "",
             "popularity": 356.866,
-            "poster_path": "/A8EPXv3SV9qiNCIttIM4ezJRmhW.jpg",
+            "poster_path": "\/A8EPXv3SV9qiNCIttIM4ezJRmhW.jpg",
             "release_date": "2023-04-13",
             "title": "Underverden 2",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 163
+            "vote_count": 163,
+            "preco": 0.3
         },
         {
             "adult": false,
-            "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+            "backdrop_path": "\/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
             "genre_ids": [
                 878,
                 12,
@@ -391,16 +410,17 @@
             "id": 447365,
             "original_language": "en",
             "original_title": "Guardians of the Galaxy Vol. 3",
-            "overview": "Peter Quill, que ainda está se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+            "overview": "Peter Quill, que ainda est\u00e1 se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma miss\u00e3o que, se n\u00e3o for conclu\u00edda com sucesso, pode levar ao fim dos Guardi\u00f5es como os conhecemos.",
             "popularity": 335.581,
-            "poster_path": "/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+            "poster_path": "\/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
             "release_date": "2023-05-03",
-            "title": "Guardiões da Galáxia: Vol. 3",
+            "title": "Guardi\u00f5es da Gal\u00e1xia: Vol. 3",
             "video": false,
             "vote_average": 8,
-            "vote_count": 4935
+            "vote_count": 4935,
+            "preco": 0.3
         }
     ],
     "total_pages": 1873,
-    "total_results": 37444
+    "total_results": 37447
 }

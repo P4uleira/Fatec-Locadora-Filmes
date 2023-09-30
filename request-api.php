@@ -1,42 +1,41 @@
 <?php
 
-
+$preco;
 //Função para realizar pedidos a API do site The Movies DataBase
-function requestApi($genero){
+function requestApi($genero)
+{
 
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
-    if($genero === ''){ 
-      $curl = curl_init();
+  if ($genero === '') {
+    $curl = curl_init();
 
-      curl_setopt_array($curl, [
-        CURLOPT_URL => "https://api.themoviedb.org/3/trending/movie/week?api_key=" . $apiKey . "?language=pt-BR",
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_ENCODING => "",
-        CURLOPT_MAXREDIRS => 10,
-        CURLOPT_TIMEOUT => 30,
-        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-        CURLOPT_CUSTOMREQUEST => "GET",
-        CURLOPT_HTTPHEADER => [
-          "Authorization: Bearer " . $apiKey,
-          "accept: application/json"
-        ],
-      ]);
+    curl_setopt_array($curl, [
+      CURLOPT_URL => "https://api.themoviedb.org/3/trending/movie/week?api_key=" . $apiKey . "?language=pt-BR",
+      CURLOPT_RETURNTRANSFER => true,
+      CURLOPT_ENCODING => "",
+      CURLOPT_MAXREDIRS => 10,
+      CURLOPT_TIMEOUT => 30,
+      CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+      CURLOPT_CUSTOMREQUEST => "GET",
+      CURLOPT_HTTPHEADER => [
+        "Authorization: Bearer " . $apiKey,
+        "accept: application/json"
+      ],
+    ]);
 
-      $respostaApi = curl_exec($curl);
+    $respostaApi = curl_exec($curl);
 
-      $erroApi = curl_error($curl);
-      $generoApiRequest = $genero . ".json";
-      curl_close($curl);
+    $erroApi = curl_error($curl);
+    $generoApiRequest = $genero . ".json";
+    curl_close($curl);
 
-      if (file_exists($caminho . $generoApiRequest)) {
-      } else {
-        $generoFilmes = $caminho . $generoApiRequest;
-        file_put_contents($generoFilmes, $respostaApi);
-      }
+    if (file_exists($caminho . $generoApiRequest)) {
+    } else {
+      $generoFilmes = $caminho . $generoApiRequest;
+      file_put_contents($generoFilmes, $respostaApi);
     }
-
-
+  }
 
   //Requisão da página de tendências do momento.
   $curl = curl_init();
@@ -64,12 +63,12 @@ function requestApi($genero){
   if (!file_exists($caminho . $generoApiRequest)) {
     $generoFilmes = $caminho . $generoApiRequest;
     file_put_contents($generoFilmes, $respostaApi);
-    //adicionarPreco($generoFilmes, $genero);
+    adicionarPreco($generoFilmes, $genero);
   }
 
 }
 
-//Busca por nome do filme, o mesmo retorna do site todos os filmes com o mesmo nome buscado.
+
 function buscaPorNome($name)
 {
 
@@ -107,8 +106,64 @@ function buscaPorNome($name)
     echo "</br>";
   }
   echo "</div>";
-
-
 }
 
+function adicionarPreco($caminho, $genero)
+{
+  $json = file_get_contents($caminho);
+
+  
+  $dados = json_decode($json, true);
+
+  
+  if ($dados === null) {
+    throw new Exception("Falha ao decodificar o JSON");
+  }
+
+  $preco = 0;
+
+  switch ($genero) {
+    case "28":
+      $preco = 0.30;
+      break;
+    case '878':
+      $preco = 0.40;
+      break;
+    case '16':
+      $preco = 0.35;
+      break;
+    case '35':
+      $preco = 0.35;
+      break;
+    case '18':
+      $preco = 0.20;
+      break;
+    case '10751':
+      $preco = 0.50;
+      break;
+    case '27':
+      $preco = 0.45;
+      break;
+    default:
+      $preco = 0.25;
+      break;
+
+  }
+
+  foreach ($dados['results'] as &$resultado) {
+    $resultado["preco"] = $preco; 
+  }
+
+  $jsonModificado = json_encode($dados, JSON_PRETTY_PRINT);
+
+  
+  if ($jsonModificado === false) {
+    throw new Exception("Falha ao codificar os dados em JSON");
+  }
+
+  
+  if (file_put_contents($caminho, $jsonModificado) === false) {
+    throw new Exception("Falha ao escrever os dados de volta no arquivo");
+  }
+}
 ?>

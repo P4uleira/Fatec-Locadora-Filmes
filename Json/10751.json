@@ -3,7 +3,7 @@
     "results": [
         {
             "adult": false,
-            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "backdrop_path": "\/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -14,18 +14,19 @@
             "id": 976573,
             "original_language": "en",
             "original_title": "Elemental",
-            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "overview": "Em uma cidade onde moradores do fogo, da \u00e1gua, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo est\u00e3o prestes a descobrir algo elementar: o quanto realmente t\u00eam em comum.",
             "popularity": 677.12,
-            "poster_path": "/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
+            "poster_path": "\/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg",
             "release_date": "2023-06-14",
             "title": "Elementos",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 2403
+            "vote_count": 2403,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
+            "backdrop_path": "\/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -34,18 +35,19 @@
             "id": 1076364,
             "original_language": "en",
             "original_title": "Carl's Date",
-            "overview": "Carl Fredricksen relutantemente concorda em ir a um encontro com senhora amiga—mas reconhecidamente não tem ideia de como o namoro funciona hoje em dia. Sempre um amigo prestativo, Dug intervém para calmo o nervosismo pré-encontro de Carl e oferecer algumas dicas testadas e comprovadas para fazer amigos—se você for um cachorro.",
+            "overview": "Carl Fredricksen relutantemente concorda em ir a um encontro com senhora amiga\u2014mas reconhecidamente n\u00e3o tem ideia de como o namoro funciona hoje em dia. Sempre um amigo prestativo, Dug interv\u00e9m para calmo o nervosismo pr\u00e9-encontro de Carl e oferecer algumas dicas testadas e comprovadas para fazer amigos\u2014se voc\u00ea for um cachorro.",
             "popularity": 648.421,
-            "poster_path": "/81Uq4CEUPRpbLrSPOREpQJFdFFr.jpg",
+            "poster_path": "\/81Uq4CEUPRpbLrSPOREpQJFdFFr.jpg",
             "release_date": "2023-06-15",
             "title": "O Encontro de Carl",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 184
+            "vote_count": 184,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+            "backdrop_path": "\/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
             "genre_ids": [
                 10751,
                 35,
@@ -55,18 +57,19 @@
             "id": 790493,
             "original_language": "en",
             "original_title": "Spy Kids: Armageddon",
-            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um vírus de computador que lhe dá o controle de toda a tecnologia, eles próprios devem se tornar espiões para salvar seus pais e o mundo.",
+            "overview": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um v\u00edrus de computador que lhe d\u00e1 o controle de toda a tecnologia, eles pr\u00f3prios devem se tornar espi\u00f5es para salvar seus pais e o mundo.",
             "popularity": 525.935,
-            "poster_path": "/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
+            "poster_path": "\/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
             "release_date": "2023-09-22",
-            "title": "Pequenos Espiões: Apocalipse",
+            "title": "Pequenos Espi\u00f5es: Apocalipse",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 39
+            "vote_count": 39,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "backdrop_path": "\/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -77,18 +80,19 @@
             "id": 502356,
             "original_language": "en",
             "original_title": "The Super Mario Bros. Movie",
-            "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+            "overview": "Os irm\u00e3os Mario e Luigi, de ascend\u00eancia italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um servi\u00e7o de repara\u00e7\u00e3o de uma conduta de \u00e1gua, s\u00e3o sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irm\u00e3o, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que ser\u00e3o grandes mais-valias para destruir os planos de Bowser, um verdadeiro vil\u00e3o que tenciona dominar o mundo.",
             "popularity": 372.013,
-            "poster_path": "/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
+            "poster_path": "\/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
             "release_date": "2023-04-05",
             "title": "Super Mario Bros.: O Filme",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 6730
+            "vote_count": 6730,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/7VEUOEfRzzrQfWddlIyLUKvh6Nf.jpg",
+            "backdrop_path": "\/7VEUOEfRzzrQfWddlIyLUKvh6Nf.jpg",
             "genre_ids": [
                 12,
                 10751,
@@ -98,18 +102,19 @@
             "id": 447277,
             "original_language": "en",
             "original_title": "The Little Mermaid",
-            "overview": "Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.",
+            "overview": "Ariel \u00e9 uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superf\u00edcie. Ariel se v\u00ea em uma inesperada jornada de autodescoberta ao encontrar um pr\u00edncipe, uma bruxa do mar e um novo mundo incr\u00edvel.",
             "popularity": 334.324,
-            "poster_path": "/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg",
+            "poster_path": "\/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg",
             "release_date": "2023-05-18",
             "title": "A Pequena Sereia",
             "video": false,
             "vote_average": 6.5,
-            "vote_count": 2137
+            "vote_count": 2137,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/qZOuoBoKCDLSm1EvYz2eBub8Cto.jpg",
+            "backdrop_path": "\/qZOuoBoKCDLSm1EvYz2eBub8Cto.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -118,19 +123,20 @@
             ],
             "id": 939338,
             "original_language": "fr",
-            "original_title": "Pattie et la colère de Poséidon",
+            "original_title": "Pattie et la col\u00e8re de Pos\u00e9idon",
             "overview": "",
             "popularity": 246.134,
-            "poster_path": "/lE9np1BJgMeKfO4mCLVVZnWTItl.jpg",
+            "poster_path": "\/lE9np1BJgMeKfO4mCLVVZnWTItl.jpg",
             "release_date": "2023-01-25",
-            "title": "Pattie et la colère de Poséidon",
+            "title": "Pattie et la col\u00e8re de Pos\u00e9idon",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 34
+            "vote_count": 34,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
+            "backdrop_path": "\/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -142,18 +148,19 @@
             "id": 315162,
             "original_language": "en",
             "original_title": "Puss in Boots: The Last Wish",
-            "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+            "overview": "O Gato de Botas descobre que sua paix\u00e3o pela aventura cobrou seu pre\u00e7o: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada \u00e9pica para encontrar o m\u00edtico \u00daltimo Desejo e restaurar suas nove vidas.",
             "popularity": 218.165,
-            "poster_path": "/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
+            "poster_path": "\/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
             "release_date": "2022-12-07",
-            "title": "Gato de Botas 2: O Último Pedido",
+            "title": "Gato de Botas 2: O \u00daltimo Pedido",
             "video": false,
             "vote_average": 8.3,
-            "vote_count": 6391
+            "vote_count": 6391,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+            "backdrop_path": "\/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -163,18 +170,19 @@
             "id": 1040148,
             "original_language": "en",
             "original_title": "Ruby Gillman, Teenage Kraken",
-            "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+            "overview": "Uma adolescente t\u00edmida descobre que faz parte de uma lend\u00e1ria linhagem real dos m\u00edticos krakens do mar e que seu destino, nas profundezas dos oceanos, \u00e9 maior do que ela jamais sonhou.",
             "popularity": 211.575,
-            "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+            "poster_path": "\/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
             "release_date": "2023-06-28",
             "title": "Ruby Marinho - Monstro Adolescente",
             "video": false,
             "vote_average": 7.5,
-            "vote_count": 668
+            "vote_count": 668,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "backdrop_path": "\/iEFuHjqrE059SmflBva1JzDJutE.jpg",
             "genre_ids": [
                 16,
                 10402,
@@ -187,18 +195,19 @@
             "id": 496450,
             "original_language": "fr",
             "original_title": "Miraculous - le film",
-            "overview": "Marinette Dupain-Cheng, de dezesseis anos, está temendo o primeiro dia de aula, onde ela sofre bullying, não tem amigos e não se encaixa, mas seu mundo vira de cabeça para baixo quando ela é escolhida para se tornar a super-heroína Ladybug e ela conhece seu parceiro Cat Noir.",
+            "overview": "Marinette Dupain-Cheng, de dezesseis anos, est\u00e1 temendo o primeiro dia de aula, onde ela sofre bullying, n\u00e3o tem amigos e n\u00e3o se encaixa, mas seu mundo vira de cabe\u00e7a para baixo quando ela \u00e9 escolhida para se tornar a super-hero\u00edna Ladybug e ela conhece seu parceiro Cat Noir.",
             "popularity": 204.347,
-            "poster_path": "/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
+            "poster_path": "\/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
             "release_date": "2023-07-05",
             "title": "Miraculous: As Aventuras de Ladybug - O Filme",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 593
+            "vote_count": 593,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/vT17lPUglrAzjEqMwjPpIDe49ty.jpg",
+            "backdrop_path": "\/vT17lPUglrAzjEqMwjPpIDe49ty.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -207,19 +216,20 @@
             ],
             "id": 459003,
             "original_language": "uk",
-            "original_title": "Мавка: Лісова пісня",
-            "overview": "Mavka — uma Alma da Floresta e seu Guardião — enfrenta uma escolha impossível entre o amor e seu dever como guardiã do Coração da Floresta, quando se apaixona por um humano — o talentoso jovem músico Lukas.",
+            "original_title": "\u041c\u0430\u0432\u043a\u0430: \u041b\u0456\u0441\u043e\u0432\u0430 \u043f\u0456\u0441\u043d\u044f",
+            "overview": "Mavka \u2014 uma Alma da Floresta e seu Guardi\u00e3o \u2014 enfrenta uma escolha imposs\u00edvel entre o amor e seu dever como guardi\u00e3 do Cora\u00e7\u00e3o da Floresta, quando se apaixona por um humano \u2014 o talentoso jovem m\u00fasico Lukas.",
             "popularity": 190.337,
-            "poster_path": "/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
+            "poster_path": "\/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
             "release_date": "2023-03-02",
             "title": "Mavka: Aventura na Floresta",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 393
+            "vote_count": 393,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+            "backdrop_path": "\/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
             "genre_ids": [
                 10751,
                 16,
@@ -231,18 +241,19 @@
             "id": 354912,
             "original_language": "en",
             "original_title": "Coco",
-            "overview": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.",
+            "overview": "O aspirante a m\u00fasico Miguel, deve lidar com sua fam\u00edlia que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisav\u00f4, um cantor lend\u00e1rio.",
             "popularity": 178.131,
-            "poster_path": "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+            "poster_path": "\/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
             "release_date": "2017-10-27",
-            "title": "Viva: A Vida é uma Festa",
+            "title": "Viva: A Vida \u00e9 uma Festa",
             "video": false,
             "vote_average": 8.2,
-            "vote_count": 17736
+            "vote_count": 17736,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+            "backdrop_path": "\/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -252,18 +263,19 @@
             "id": 675445,
             "original_language": "en",
             "original_title": "PAW Patrol: The Movie",
-            "overview": "O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
+            "overview": "O longa acompanha um grupo de c\u00e3es falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
             "popularity": 167.685,
-            "poster_path": "/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
+            "poster_path": "\/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
             "release_date": "2021-08-09",
             "title": "Patrulha Canina: O Filme",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 1141
+            "vote_count": 1141,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/fwXeTKmJvlv7kbH8QDmbykGfMeK.jpg",
+            "backdrop_path": "\/fwXeTKmJvlv7kbH8QDmbykGfMeK.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -274,18 +286,19 @@
             "id": 893723,
             "original_language": "en",
             "original_title": "PAW Patrol: The Mighty Movie",
-            "overview": "Um meteoro mágico cai em Adventure City, dá superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da prisão e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervilões antes que seja tarde demais.",
+            "overview": "Um meteoro m\u00e1gico cai em Adventure City, d\u00e1 superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da pris\u00e3o e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervil\u00f5es antes que seja tarde demais.",
             "popularity": 159.484,
-            "poster_path": "/pGLMWNdVsXnaTaa8sYGqbYBk8Zz.jpg",
+            "poster_path": "\/pGLMWNdVsXnaTaa8sYGqbYBk8Zz.jpg",
             "release_date": "2023-09-21",
             "title": "Patrulha Canina: O Filme Superpoderoso",
             "video": false,
             "vote_average": 8.3,
-            "vote_count": 7
+            "vote_count": 7,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "backdrop_path": "\/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
             "genre_ids": [
                 16,
                 35,
@@ -295,18 +308,19 @@
             "id": 568124,
             "original_language": "en",
             "original_title": "Encanto",
-            "overview": "Uma garota chamada Mirabel Madrigal cresce como o único membro não mágico de sua família, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.",
+            "overview": "Uma garota chamada Mirabel Madrigal cresce como o \u00fanico membro n\u00e3o m\u00e1gico de sua fam\u00edlia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Col\u00f4mbia.",
             "popularity": 156.985,
-            "poster_path": "/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
+            "poster_path": "\/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
             "release_date": "2021-10-13",
             "title": "Encanto",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 8607
+            "vote_count": 8607,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/8UjwvrxTpsD46cDQklDdU14RQYB.jpg",
+            "backdrop_path": "\/8UjwvrxTpsD46cDQklDdU14RQYB.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -316,18 +330,19 @@
             "id": 1146348,
             "original_language": "en",
             "original_title": "Scooby-Doo! And Krypto, Too!",
-            "overview": "Quando a Liga da Justiça desaparece e os vilões invadem Metrópolis, há apenas uma equipe que pode resolver esse mistério: Scooby-Doo e sua turma!  Mas espere, há um novo cachorro na cidade – Krypto – o Supercão do Superman com Superpoderes.  A Mistérios S/A precisará de toda a ajuda possível quando fantasmas ameaçarem a sede da Liga da Justiça.  E Lex Luthor finalmente se endireitou?  Ou ele está em conluio com o Coringa e a Arlequina?  Os Super-Vilões da DC podem ter entrado em conflito com o Superman antes, mas agora eles estão enfrentando algo novo: uma gangue de garotos intrometidos!",
+            "overview": "Quando a Liga da Justi\u00e7a desaparece e os vil\u00f5es invadem Metr\u00f3polis, h\u00e1 apenas uma equipe que pode resolver esse mist\u00e9rio: Scooby-Doo e sua turma!  Mas espere, h\u00e1 um novo cachorro na cidade \u2013 Krypto \u2013 o Superc\u00e3o do Superman com Superpoderes.  A Mist\u00e9rios S\/A precisar\u00e1 de toda a ajuda poss\u00edvel quando fantasmas amea\u00e7arem a sede da Liga da Justi\u00e7a.  E Lex Luthor finalmente se endireitou?  Ou ele est\u00e1 em conluio com o Coringa e a Arlequina?  Os Super-Vil\u00f5es da DC podem ter entrado em conflito com o Superman antes, mas agora eles est\u00e3o enfrentando algo novo: uma gangue de garotos intrometidos!",
             "popularity": 149.814,
-            "poster_path": "/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",
+            "poster_path": "\/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",
             "release_date": "2023-09-26",
-            "title": "Scooby-Doo e Krypto - O Supercão",
+            "title": "Scooby-Doo e Krypto - O Superc\u00e3o",
             "video": false,
             "vote_average": 7.8,
-            "vote_count": 11
+            "vote_count": 11,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/5LDWmyVkxyNXOANFnbbrXJv4677.jpg",
+            "backdrop_path": "\/5LDWmyVkxyNXOANFnbbrXJv4677.jpg",
             "genre_ids": [
                 10751,
                 35,
@@ -336,18 +351,19 @@
             "id": 656216,
             "original_language": "en",
             "original_title": "Bernie the Dolphin 2",
-            "overview": "Os irmãos Kevin e Holly terão o verão de suas vidas ajudando o golfinho Bernie no Parque Marinho. Mergulhe nessa aventura para proteger os animais de um velho inimigo!",
+            "overview": "Os irm\u00e3os Kevin e Holly ter\u00e3o o ver\u00e3o de suas vidas ajudando o golfinho Bernie no Parque Marinho. Mergulhe nessa aventura para proteger os animais de um velho inimigo!",
             "popularity": 129.744,
-            "poster_path": "/eIJh0bF1dxfNsRxVlgRhdo8YJkv.jpg",
+            "poster_path": "\/eIJh0bF1dxfNsRxVlgRhdo8YJkv.jpg",
             "release_date": "2019-12-17",
             "title": "Bernie, O Golfinho 2",
             "video": false,
             "vote_average": 6.2,
-            "vote_count": 12
+            "vote_count": 12,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/9iRRfMZbnpgHDdKi2lczGGYZXDo.jpg",
+            "backdrop_path": "\/9iRRfMZbnpgHDdKi2lczGGYZXDo.jpg",
             "genre_ids": [
                 12,
                 10751,
@@ -356,18 +372,19 @@
             "id": 411,
             "original_language": "en",
             "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-            "overview": "Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irmãos ingleses são enviados para uma casa de campo onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia. Depois de voltar, ela logo volta a Nárnia com seus irmãos, Peter e Edmund, e sua irmã, Susan. Lá eles se juntam ao leão mágico, Aslan, na luta contra a Feiticeira Branca.",
+            "overview": "Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irm\u00e3os ingleses s\u00e3o enviados para uma casa de campo onde eles estar\u00e3o seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo m\u00e1gico chamado N\u00e1rnia. Depois de voltar, ela logo volta a N\u00e1rnia com seus irm\u00e3os, Peter e Edmund, e sua irm\u00e3, Susan. L\u00e1 eles se juntam ao le\u00e3o m\u00e1gico, Aslan, na luta contra a Feiticeira Branca.",
             "popularity": 123.542,
-            "poster_path": "/sLw1gxPAvkqhp5XrdO2A50Q5lTW.jpg",
+            "poster_path": "\/sLw1gxPAvkqhp5XrdO2A50Q5lTW.jpg",
             "release_date": "2005-12-07",
-            "title": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+            "title": "As Cr\u00f4nicas de N\u00e1rnia: O Le\u00e3o, a Feiticeira e o Guarda-Roupa",
             "video": false,
             "vote_average": 7.1,
-            "vote_count": 9808
+            "vote_count": 9808,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/9C9an209ONG8TqP5yVoigtPCTnO.jpg",
+            "backdrop_path": "\/9C9an209ONG8TqP5yVoigtPCTnO.jpg",
             "genre_ids": [
                 16,
                 12,
@@ -378,16 +395,17 @@
             "original_title": "Lille Allan - Den menneskelige antenne",
             "overview": "",
             "popularity": 115.078,
-            "poster_path": "/ex2UXUpeqhKr1x3yHgMZWLWrAKg.jpg",
+            "poster_path": "\/ex2UXUpeqhKr1x3yHgMZWLWrAKg.jpg",
             "release_date": "2022-07-21",
             "title": "Lille Allan - Den menneskelige antenne",
             "video": false,
             "vote_average": 7.7,
-            "vote_count": 19
+            "vote_count": 19,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/yEQqrW61rwNuVRHTjgHOAU4dXNE.jpg",
+            "backdrop_path": "\/yEQqrW61rwNuVRHTjgHOAU4dXNE.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -397,18 +415,19 @@
             "id": 675353,
             "original_language": "en",
             "original_title": "Sonic the Hedgehog 2",
-            "overview": "Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade e deixar sua marca como um herói, e Tom e Maddie concordam em deixá-lo em casa enquanto vão de férias. Mas, assim que eles se foram, Dr. Robotnik volta, desta vez com um novo parceiro, Knuckles, em busca de uma esmeralda que tem o poder de construir e destruir civilizações. Sonic se une a um novo companheiro, Tails, e juntos eles embarcam em uma jornada para encontrar a esmeralda antes que ela caia nas mãos erradas.",
+            "overview": "Depois de se estabelecer em Green Hills, Sonic est\u00e1 pronto para mais liberdade e deixar sua marca como um her\u00f3i, e Tom e Maddie concordam em deix\u00e1-lo em casa enquanto v\u00e3o de f\u00e9rias. Mas, assim que eles se foram, Dr. Robotnik volta, desta vez com um novo parceiro, Knuckles, em busca de uma esmeralda que tem o poder de construir e destruir civiliza\u00e7\u00f5es. Sonic se une a um novo companheiro, Tails, e juntos eles embarcam em uma jornada para encontrar a esmeralda antes que ela caia nas m\u00e3os erradas.",
             "popularity": 110.864,
-            "poster_path": "/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
+            "poster_path": "\/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
             "release_date": "2022-04-08",
             "title": "Sonic 2: O Filme",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 4223
+            "vote_count": 4223,
+            "preco": 0.5
         },
         {
             "adult": false,
-            "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+            "backdrop_path": "\/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
             "genre_ids": [
                 16,
                 14,
@@ -419,16 +438,17 @@
             "id": 832502,
             "original_language": "en",
             "original_title": "The Monkey King",
-            "overview": "O Rei Macaco é uma comédia de ação para toda a família sobre um Macaco cheio de carisma e seu Bastão mágico que embarcam em uma aventura épica contra cem demônios, um excêntrico Rei Dragão e o maior inimigo do Macaco: seu próprio ego! No caminho, uma jovem desafia o egocentrismo dele e mostra que até a menor pedrinha de todas pode ter um grande efeito no mundo.",
+            "overview": "O Rei Macaco \u00e9 uma com\u00e9dia de a\u00e7\u00e3o para toda a fam\u00edlia sobre um Macaco cheio de carisma e seu Bast\u00e3o m\u00e1gico que embarcam em uma aventura \u00e9pica contra cem dem\u00f4nios, um exc\u00eantrico Rei Drag\u00e3o e o maior inimigo do Macaco: seu pr\u00f3prio ego! No caminho, uma jovem desafia o egocentrismo dele e mostra que at\u00e9 a menor pedrinha de todas pode ter um grande efeito no mundo.",
             "popularity": 110.636,
-            "poster_path": "/bmwK5QCznqUT8bcDR7qROrxqgov.jpg",
+            "poster_path": "\/bmwK5QCznqUT8bcDR7qROrxqgov.jpg",
             "release_date": "2023-08-11",
             "title": "O Rei Macaco",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 170
+            "vote_count": 170,
+            "preco": 0.5
         }
     ],
     "total_pages": 1179,
-    "total_results": 23563
+    "total_results": 23564
 }
