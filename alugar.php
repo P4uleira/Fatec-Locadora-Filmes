@@ -42,11 +42,7 @@
         include 'header.php';
     ?>
     <main class="main container">
-<<<<<<< HEAD
-        <form action="alugar-api.php" method="post">
-=======
         <form style="padding-bottom: 3rem;" action="alugado.php" method="post" onsubmit="return validarFormulario()";>
->>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
             <?php
                 include 'request-api.php';                
                 if (isset($_GET['id'])) {
@@ -56,17 +52,6 @@
                 }
 
             ?>
-<<<<<<< HEAD
-
-            
-            <div class="form-group">
-                <label for="CpfCliente">CPF</label>
-                <input type="text" class="form-control" id="CpfCliente" placeholder="Insira seu CPF" >
-            </div>
-            <div class="form-group">
-                <label for="aluguel">Alugar por quantos dias?</label>
-                <select class="form-control" id="aluguel" >
-=======
             <div class="form-group">
                 <label for="inputCPF">CPF</label>
                 <input type="text" class="form-control" id="inputCPF" data-mask="000.000.000-00" placeholder="Insira seu CPF" name="cpf">
@@ -74,7 +59,6 @@
             <div class="form-group">
                 <label for="diasAlugar">Alugar por quantos dias?</label>
                 <select name="diasALugado" class="form-control" id="diasAlugar" onchange="alteraValor()">
->>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
                     <option value="1">1 Dia</option>
                     <option value="2">2 Dias</option>
                     <option value="3">3 Dias</option>
@@ -95,10 +79,6 @@
                 </br>
                 <input style="margin-botton: 2rem;" type="submit" name="btnAlugar" value="Alugar" class="btn btn-primary">
             </div>
-<<<<<<< HEAD
-            <button type="submit" class="btn btn-primary" onclick="salvaAluguel()">Alugar</button>
-=======
->>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
         </form>
     </main>
 
@@ -122,7 +102,7 @@
 
         function validarFormulario() {            
             var cpf = document.getElementById('inputCPF').value;
-            if (cpf.length !== 14) {
+            if (cpf.length !== 14 || cpf.length !== 11) {
                 alert("CPF inválido.");
                 return false; 
             }                 
