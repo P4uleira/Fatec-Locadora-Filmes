@@ -102,7 +102,7 @@
 
         function validarFormulario() {            
             var cpf = document.getElementById('inputCPF').value;
-            if (cpf.length !== 14) {
+            if (cpf.length !== 14 || cpf.length !== 11) {
                 alert("CPF inválido.");
                 return false; 
             }                 
