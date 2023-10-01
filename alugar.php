@@ -33,6 +33,8 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
     <script src="./Js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.6/jquery.inputmask.min.js"></script>
 </head>
 
 <body>
@@ -74,17 +76,22 @@
         </div>
     </header>
     <main class="main container">
+<<<<<<< HEAD
         <form action="alugar-api.php" method="post">
+=======
+        <form style="padding-bottom: 3rem;" action="alugado.php" method="post" onsubmit="return validarFormulario()";>
+>>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
             <?php
-            include 'alugar-api.php';
-            include 'apiFilmes.php';
-            if (isset($_GET['id'])) {
-                $id = $_GET['id'];
-                $cat = $_GET['cat'];
-                alugarfilme($id, $cat);
-            }
+                include 'alugar-api.php';
+                include 'apiFilmes.php';
+                if (isset($_GET['id'])) {
+                    $id = $_GET['id'];
+                    $cat = $_GET['cat'];
+                    $preco = alugarfilme($id, $cat);
+                }
 
             ?>
+<<<<<<< HEAD
 
             
             <div class="form-group">
@@ -94,6 +101,15 @@
             <div class="form-group">
                 <label for="aluguel">Alugar por quantos dias?</label>
                 <select class="form-control" id="aluguel" >
+=======
+            <div class="form-group">
+                <label for="inputCPF">CPF</label>
+                <input type="text" class="form-control" id="inputCPF" data-mask="000.000.000-00" placeholder="Insira seu CPF" name="cpf">
+            </div>
+            <div class="form-group">
+                <label for="diasAlugar">Alugar por quantos dias?</label>
+                <select name="diasALugado" class="form-control" id="diasAlugar" onchange="alteraValor()">
+>>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
                     <option value="1">1 Dia</option>
                     <option value="2">2 Dias</option>
                     <option value="3">3 Dias</option>
@@ -102,14 +118,52 @@
                 </select>
             </div>
             <div class="form-group">
-                <label for="inputCPF">Valor do Filme</label>
-                <?php
-                echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"R$\">";
+                <label for="inputValor">Valor do Aluguel</label>
+                <input readonly type="text" class="form-control" id="inputValor" value="R$ <?php echo $preco ?>" name="valoraluguel">
+                <?php                    
+                    echo "<input name=\"id\" type=\"text\" readonly class=\"d-none\" id=\"id\" value=\"" .$id."\"> ";
+                    echo "<input name=\"cat\" type=\"text\" readonly class=\"d-none\" id=\"cat\" value=\"" .$cat."\"> ";
+                    echo "<input name=\"filme\" type=\"text\" readonly class=\"d-none\" id=\"filme\" value=\"" .$filme."\"> ";
+                    echo "<input type=\"text\" disabled class=\"d-none\" id=\"inputValorHide\" value=\"".$preco."\"> ";                 
+                    
                 ?>
+                </br>
+                <input style="margin-botton: 2rem;" type="submit" name="btnAlugar" value="Alugar" class="btn btn-primary">
             </div>
+<<<<<<< HEAD
             <button type="submit" class="btn btn-primary" onclick="salvaAluguel()">Alugar</button>
+=======
+>>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
         </form>
     </main>
+
+    <script>
+        $(document).ready(function () {
+            $('#inputCPF').inputmask('999.999.999-99', { removeMaskOnSubmit: true });
+        });
+
+        function alteraValor() {
+            console.log(document.getElementById("id").value);
+            console.log(document.getElementById("cat").value);
+            var dias = document.getElementById("diasAlugar").value;
+            dias = parseInt(dias);     
+
+            var valor = document.getElementById("inputValorHide").value;
+            valor = parseFloat(valor);
+            valor = (valor * dias).toFixed(2);        
+
+            document.getElementById("inputValor").value = "R$ " + valor;
+        }
+
+        function validarFormulario() {            
+            var cpf = document.getElementById('inputCPF').value;
+            if (cpf.length !== 14) {
+                alert("CPF inválido.");
+                return false; 
+            }                 
+            
+        }
+    </script>
 </body>
 
 </html>
