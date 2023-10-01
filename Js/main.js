@@ -5,13 +5,6 @@ function informaNome(){
     window.location.href = "index.php?name=" + titulo;
 }
 
-
-function buscarAlugados(){
-    var cpf = document.getElementById('inputCPF');
-    
-}
-
-
 function alugarFilme(id, cat) {
     window.location.href = "alugar.php?id=" + id + "&cat=" + cat
 }

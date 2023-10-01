@@ -79,7 +79,7 @@
             </div>
             <div>
                     <?php 
-                        include 'alugar-api.php';
+                        include 'request-api.php';
                         $poster = alugarfilme($id, $cat, 1);
                         echo "<img class=\"img-alugar\" src='https://image.tmdb.org/t/p/w500" . $poster . "'alt='Poster do Filme'>";
                     ?>
