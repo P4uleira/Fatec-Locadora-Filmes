@@ -1,7 +1,6 @@
 <?php
 include 'request-api.php';
-function alugarfilme($id, $cat, $onlyPoster = "0")
-{
+function alugarfilme($id, $cat, $onlyPoster = "0") {
   requestApi($cat);
   $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\'.$cat.'.json';
     
