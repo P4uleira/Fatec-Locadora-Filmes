@@ -49,7 +49,7 @@
         margin-top: 60px;
         transform: translateX(-250px);
         transition: transform 250ms ease-in-out;
-        background: #183D3D;
+        background: #29333f;
     }
     .sidebarMenuInner{
         margin:0;

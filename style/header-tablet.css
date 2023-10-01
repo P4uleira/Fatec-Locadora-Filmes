@@ -255,7 +255,7 @@ body {
     margin-top: 60px;
     transform: translateX(-250px);
     transition: transform 250ms ease-in-out;
-    background: #4F709C;
+    background: #29333f;
 }
 
 .sidebarMenuInner {
