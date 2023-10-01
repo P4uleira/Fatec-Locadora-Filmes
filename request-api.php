@@ -68,6 +68,7 @@ function requestApi($genero) {
 
 // Função para buscar o filme pelo nome inserido no input do menu do Header
 function buscaPorNome($name) {
+  $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
 
   echo "<h3 style=\"text-align: center; margin-bottom: 2rem;\">Mostrando opções para " . $name . "</h3>";
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
