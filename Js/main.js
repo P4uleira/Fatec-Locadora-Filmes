@@ -5,7 +5,13 @@ function informaNome(){
     window.location.href = "index.php?name=" + titulo;
 }
 
-<<<<<<< HEAD
+
+function buscarAlugados(){
+    var cpf = document.getElementById('inputCPF');
+    
+}
+
+
 function alugarFilme(id, cat) {
     window.location.href = "alugar.php?id=" + id + "&cat=" + cat
 }
@@ -28,7 +34,6 @@ function salvaAluguel(){
         }
     });
 }
-=======
 function alugarFilme(id, cat, title) {    
     window.location.href = "alugar.php?id=" + id + "&cat=" + cat + "&filme=" + title
 }
@@ -43,4 +48,4 @@ inputPesquisa.addEventListener("keydown", function(event) {
         informaNome();
     }
 });
->>>>>>> d03bc5965ec63488ffa8bcd83b185aa597d05df1
+

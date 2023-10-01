@@ -1,2 +1,4 @@
 41988968879;A Freira 2;968051;27;Jundiai,  1 de Outubro de 2023;R$ 1.35;3
 41988968879;Velozes ;385687;28;Jundiai,  1 de Outubro de 2023;R$ 0.90;3
+419.889.688-79;Fale Comigo;1008042;27;Jundiai,  1 de Outubro de 2023;R$ 1.35;3
+419.889.688-79;Barbie;346698;35;Jundiai,  1 de Outubro de 2023;R$ 1.75;5
