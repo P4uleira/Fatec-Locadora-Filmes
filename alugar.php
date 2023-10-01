@@ -74,7 +74,7 @@
         </div>
     </header>
     <main class="main container">
-        <form action="">
+        <form action="alugar-api.php" method="post">
             <?php
             include 'alugar-api.php';
             include 'apiFilmes.php';
@@ -86,19 +86,19 @@
 
             ?>
 
-
+            
             <div class="form-group">
-                <label for="inputCPF">CPF</label>
-                <input type="text" class="form-control" id="inputCPF" placeholder="Insira seu CPF" name="CPF">
+                <label for="CpfCliente">CPF</label>
+                <input type="text" class="form-control" id="CpfCliente" placeholder="Insira seu CPF" >
             </div>
             <div class="form-group">
-                <label for="exampleFormControlSelect1">Alugar por quantos dias?</label>
-                <select class="form-control" id="exampleFormControlSelect1">
-                    <option>1 Dia</option>
-                    <option>2 Dias</option>
-                    <option>3 Dias</option>
-                    <option>4 Dias</option>
-                    <option>5 Dias</option>
+                <label for="aluguel">Alugar por quantos dias?</label>
+                <select class="form-control" id="aluguel" >
+                    <option value="1">1 Dia</option>
+                    <option value="2">2 Dias</option>
+                    <option value="3">3 Dias</option>
+                    <option value="4">4 Dias</option>
+                    <option value="5">5 Dias</option>
                 </select>
             </div>
             <div class="form-group">
@@ -107,7 +107,7 @@
                 echo "<input type=\"text\" disabled class=\"form-control\" id=\"inputCPF\" placeholder=\"R$\">";
                 ?>
             </div>
-            <button type="submit" class="btn btn-primary">Alugar</button>
+            <button type="submit" class="btn btn-primary" onclick="salvaAluguel()">Alugar</button>
         </form>
     </main>
 </body>

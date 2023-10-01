@@ -25,5 +25,4 @@ function alugarfilme($id, $cat)
   }
 }
 
-
 ?>
