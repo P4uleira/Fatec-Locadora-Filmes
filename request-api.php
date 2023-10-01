@@ -66,6 +66,37 @@ function requestApi($genero) {
 
 }
 
+function alugarfilme($id, $cat, $onlyPoster = "0", $woverview = "0") {
+  requestApi($cat);
+  $file = 'C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\'.$cat.'.json';
+    
+  $conteudoJson = file_get_contents($file);
+  $filmes = json_decode($conteudoJson);
+
+  foreach ($filmes->results as $filme) {
+    if ($filme->id == $id) {
+      if ($onlyPoster == 0) {
+        echo "<div class=\"box-filme-alugar\">";
+        $releaseYear = new DateTimeImmutable($filme->release_date);
+        echo "<div class=\"box-poster-alugar\">";
+        echo "<img class=\"img-alugar\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
+        echo "<h6 class=\"box-informacoes-alugar\"><em>" . $filme->title . "</em><strong>" . $releaseYear->format('Y') . "</strong></h6>";
+        if ($woverview == 0){
+          echo "<p class=\"box-sinopse-alugar\"><em>" . $filme->overview . "</em></p>";
+        }
+        echo "</div>";
+        echo "</br>";
+
+        echo "</div>";
+
+        return $filme->preco;
+      } else {
+        return $filme->poster_path;
+      }
+    }
+  }
+}
+
 // Função para buscar o filme pelo nome inserido no input do menu do Header
 function buscaPorNome($name) {
 
@@ -180,5 +211,42 @@ function listaFilmes($cat) {
     }
     echo "</div>";
 }
+
+function buscarFilmesAlugados($cpf) {
+  $ids = array();
+  $cats = array();
+
+  $alugados = fopen('alugados.txt', 'r');
+
+  if ($alugados) {
+    echo "<div style=\"display: flex; gap: 10%; justify-content: center; flex-wrap: wrap; flex-direction: row;\">";
+    while (($linha = fgets($alugados)) !== false) {        
+        $valores = explode(';', $linha);        
+        
+        if (isset($valores[0]) && $valores[0] == $cpf) {
+          echo "<div style=\"width: 300px\">";;
+          alugarfilme($valores[2], $valores[3], "0", "1");
+          echo "<strong>Valor</strong>: ". $valores[5];
+          $dataMaxima = explode(',', $valores[4]);
+          $dataMaxima = explode(' ', $dataMaxima[1]);
+          $dataMaxima[2] = intval($dataMaxima[2]) + intval($valores[6]);
+          $dataMaxima = implode(' ', $dataMaxima);
+          echo "</br><p>Você tem até o dia ". $dataMaxima . " para assistir este filme.</p>";
+          echo "</div>";                  
+        }
+        
+    }
+    echo "</div>";    
+
+    
+    fclose($alugados);
+    
+  } else {
+      echo 'Não foi possível abrir o arquivo.';
+  }
+
+}
+
+
 
 ?>

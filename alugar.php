@@ -44,7 +44,7 @@
     <main class="main container">
         <form style="padding-bottom: 3rem;" action="alugado.php" method="post" onsubmit="return validarFormulario()";>
             <?php
-                include 'alugar-api.php';                
+                include 'request-api.php';                
                 if (isset($_GET['id'])) {
                     $id = $_GET['id'];
                     $cat = $_GET['cat'];
