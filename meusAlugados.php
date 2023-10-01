@@ -32,7 +32,7 @@
             <h5>Consulte aqui todos os seus filmes alugados</h5>            
 
             <div class="form-group">
-                <label for="inputCPF"><strong>Digite seu cpf para buscar (sem pontos e/ou traços)</strong></label>
+                <label for="inputCPF"><strong>Digite seu cpf para buscar</strong></label>
                 <input type="text" class="form-control" id="inputCPF" data-mask="000.000.000-00" placeholder="Insira seu CPF" name="cpf">
                 </br><a class="btn btn-primary" onclick="buscarAlugados()">Buscar</a>
             </div>
@@ -40,9 +40,9 @@
         <?php 
         if (isset($_GET['cpf'])) {
             $cpf = $_GET['cpf'];
+            $cpf = str_replace(array(".", "-"), "", $cpf);
 
-            include 'request-api.php';
-            echo "<h4 style=\"text-align: center;\">Aqui estão seus filmes alugados: </h4>";            
+            include 'request-api.php';                      
             buscarFilmesAlugados($cpf);
              
         }        

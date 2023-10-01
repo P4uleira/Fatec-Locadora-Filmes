@@ -249,11 +249,18 @@ function buscarFilmesAlugados($cpf) {
   $alugados = fopen('alugados.txt', 'r');
 
   if ($alugados) {
+    $qtdFilmes = 0;
     echo "<div style=\"display: flex; gap: 10%; justify-content: center; flex-wrap: wrap; flex-direction: row;\">";
     while (($linha = fgets($alugados)) !== false) {        
         $valores = explode(';', $linha);        
         
         if (isset($valores[0]) && $valores[0] == $cpf) {
+          $qtdFilmes++;
+          
+          if ($qtdFilmes == 1) {
+            echo "<h4 style=\"text-align: center;\">Aqui estão seus filmes alugados: </h4>";
+          }
+
           echo "<div style=\"width: 300px\">";;
           alugarfilme($valores[2], $valores[3], "0", "1");
           echo "<strong>Valor</strong>: ". $valores[5];
@@ -267,9 +274,11 @@ function buscarFilmesAlugados($cpf) {
         
     }
     echo "</div>";  
-
-    
     fclose($alugados);
+
+    if ($qtdFilmes == 0) {
+      echo "<h4 style=\"text-align: center;\">Não foram encontrados filmes para este CPF.</br>Verifique se o CPF digitado está correto</h4>";
+    }
     
   } else {
       echo 'Não foi possível abrir o arquivo.';
