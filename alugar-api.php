@@ -29,5 +29,4 @@ function alugarfilme($id, $cat, $onlyPoster = "0") {
   }
 }
 
-
 ?>
