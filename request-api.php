@@ -1,8 +1,10 @@
 <?php
 //Função para realizar pedidos a API do site The Movies DataBase
+
 function requestApi($genero) {
-  $curl = "";
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
+  $curl = "";
+  
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
   if ($genero === '') {
     $curl = curl_init();
@@ -100,7 +102,6 @@ function alugarfilme($id, $cat, $onlyPoster = "0", $woverview = "0") {
 // Função para buscar o filme pelo nome inserido no input do menu do Header
 function buscaPorNome($name) {
   $caminho = "C:\\xampp\\htdocs\\Fatec-Locadora-Filmes\\Json\\";
-
   echo "<h3 style=\"text-align: center; margin-bottom: 2rem;\">Mostrando opções para " . $name . "</h3>";
   $apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmMyMThmMTYxNWI0MDJiNjJlOGIxMWRiYjIzZGE0YSIsInN1YiI6IjY1MDA2MzNkZmZjOWRlMGVkZWQ0MmY2MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ueh4Vo9sl3a7TMVPkKIsUBZce2PU0BwdGqGRFE54l70";
   $curl = curl_init();
@@ -124,15 +125,43 @@ function buscaPorNome($name) {
 
   $filmes = json_decode($respostaApi);
   echo "<div class=\"box-filme\">";
-  foreach ($filmes->results as $filme) {
-    $releaseYear = new DateTimeImmutable($filme->release_date);
-    if (isset($filme->genre_ids[0])) {
-      echo "<div class=\"box-poster\"><a onclick=\"alugarFilme(" . $filme->id . ", " . $filme->genre_ids[0] . ")\">";
+  foreach ($filmes->results as $filme) {    
+    if(!empty($filme->genre_ids[0]) && $filme->poster_path != NULL) {
+      $generoApiRequest = $filme->genre_ids[0] . ".json";
+      $caminhoCompleto = $caminho . $generoApiRequest;
+      if (file_exists($caminhoCompleto)) {
+        $json = file_get_contents($caminhoCompleto);
+        $dados = json_decode($json, true);
+
+        $temId = false;
+        $filmeId = $filme->id;
+        
+        foreach ($dados['results'] as &$resultado) {  
+          if ($resultado['id'] == $filmeId) {
+            $temId = true;
+          }
+        }
+
+        if ($temId == false) {
+          $dados['results'][] = $filme;
+          
+        }
+
+        $jsonModificado = json_encode($dados, JSON_PRETTY_PRINT);
+        file_put_contents($caminhoCompleto, $jsonModificado);
+        adicionarPreco($caminhoCompleto, $filme->genre_ids[0]);
+
+      }
+
+      $releaseYear = new DateTimeImmutable($filme->release_date);
+      if (isset($filme->genre_ids[0])) {
+        echo "<div class=\"box-poster\"><a style=\"cursor: pointer;\" onclick=\"alugarFilme(" . $filme->id . ", " . $filme->genre_ids[0] . ")\">";
+      }
+      echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
+      echo "<h6 class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
+      echo "</a></div>";
+      echo "</br>";
     }
-    echo "<img class=\"img\" src='https://image.tmdb.org/t/p/w500" . $filme->poster_path . "'alt='Poster do Filme'>";
-    echo "<h6 class=\"box-informacoes\"><em>" . $filme->title . "</em><br><strong>" . $releaseYear->format('Y') . "</strong></h6>";
-    echo "</a></div>";
-    echo "</br>";
   }
   echo "</div>";
 }
@@ -178,8 +207,8 @@ function adicionarPreco($caminho, $genero) {
   }
 
   foreach ($dados['results'] as &$resultado) {
-    if (property_exists($resultado, 'preco')) {
-      $resultado["preco"] = $preco;
+    if (!isset($resultado['preco'])) {
+        $resultado['preco'] = $preco;
     } 
   }
 
@@ -220,11 +249,18 @@ function buscarFilmesAlugados($cpf) {
   $alugados = fopen('alugados.txt', 'r');
 
   if ($alugados) {
+    $qtdFilmes = 0;
     echo "<div style=\"display: flex; gap: 10%; justify-content: center; flex-wrap: wrap; flex-direction: row;\">";
     while (($linha = fgets($alugados)) !== false) {        
         $valores = explode(';', $linha);        
         
         if (isset($valores[0]) && $valores[0] == $cpf) {
+          $qtdFilmes++;
+          
+          if ($qtdFilmes == 1) {
+            echo "<h4 style=\"text-align: center;\">Aqui estão seus filmes alugados: </h4>";
+          }
+
           echo "<div style=\"width: 300px\">";;
           alugarfilme($valores[2], $valores[3], "0", "1");
           echo "<strong>Valor</strong>: ". $valores[5];
@@ -237,10 +273,12 @@ function buscarFilmesAlugados($cpf) {
         }
         
     }
-    echo "</div>";    
-
-    
+    echo "</div>";  
     fclose($alugados);
+
+    if ($qtdFilmes == 0) {
+      echo "<h4 style=\"text-align: center;\">Não foram encontrados filmes para este CPF.</br>Verifique se o CPF digitado está correto</h4>";
+    }
     
   } else {
       echo 'Não foi possível abrir o arquivo.';

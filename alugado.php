@@ -93,5 +93,6 @@
                 ?> para iniciar a exibição do filme.</h6> 
     </main>
 </body>
+
 <script src="Js/main.js"></script>
 </html>

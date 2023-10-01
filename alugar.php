@@ -88,8 +88,7 @@
         });
 
         function alteraValor() {
-            console.log(document.getElementById("id").value);
-            console.log(document.getElementById("cat").value);
+            
             var dias = document.getElementById("diasAlugar").value;
             dias = parseInt(dias);     
 
@@ -102,13 +101,15 @@
 
         function validarFormulario() {            
             var cpf = document.getElementById('inputCPF').value;
-            if (cpf.length !== 14 || cpf.length !== 11) {
+            console.log(cpf.length)
+            if (cpf.length !== 14) {
                 alert("CPF inválido.");
                 return false; 
             }                 
-            
+            return true;
         }
     </script>
+    <script src="Js/main.js"></script>
 </body>
 
 </html>
